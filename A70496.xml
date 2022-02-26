@@ -1,0 +1,959 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The great prerogative of a private life by way of dialogue / written by the learned Horatius Tubero or The Sieur Moth-le-Vayer.</title>
+            <author>La Mothe Le Vayer, François de, 1583-1672.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1678</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 100 KB of XML-encoded text transcribed from 74 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A70496</idno>
+            <idno type="STC">Wing L300</idno>
+            <idno type="STC">ESTC R16863</idno>
+            <idno type="EEBO-CITATION">09369904</idno>
+            <idno type="OCLC">ocm 09369904</idno>
+            <idno type="VID">42877</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A70496)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 42877)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 499:29 or 1311:11)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The great prerogative of a private life by way of dialogue / written by the learned Horatius Tubero or The Sieur Moth-le-Vayer.</title>
+                  <author>La Mothe Le Vayer, François de, 1583-1672.</author>
+               </titleStmt>
+               <extent>[16], 126 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by J.C. for L.C. and sold by Charles Blount ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1678.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Translation of his "De la vie privée" from his "Cinq dialogues faits à l'imitation des anciens."</note>
+                  <note>This item appears at reel 499:29 and at reel 1311:11.</note>
+                  <note>Reproduction of original in the Cambridge University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-05</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2010-05</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:42877:1"/>
+            <pb facs="tcp:42877:1" rendition="simple:additions"/>
+            <p>THE GREAT PREROGATIVE OF A Private Life: By way of DIALOGUE.</p>
+            <p>Written by the learned <hi>HORATI<g ref="char:V">Ʋ</g>S T<g ref="char:V">Ʋ</g>BERO,</hi> OR The Sieur <hi>Moth. le. Vayer.</hi>
+            </p>
+            <q>
+               <l>Omnis enim per ſe Divûm natura, neceſſe est</l>
+               <l>Immortali aevo ſummâ cum pace fruatur;</l>
+               <l>— Curâ ſemota, metuque,</l>
+               <l>Ipſa ſuis pollens opibus.</l>
+            </q>
+            <p>
+               <hi>LONDON:</hi> Printed by <hi>J. C.</hi> for <hi>L. C.</hi> and ſold by <hi>Charles Blount,</hi> at the black Raven neer <hi>Worceſter</hi>-houſe in the <hi>Strand.</hi> 1678.</p>
+            <pb facs="tcp:42877:2"/>
+            <pb facs="tcp:42877:2" rendition="simple:additions"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:42877:3" rendition="simple:additions"/>
+            <pb facs="tcp:42877:3" rendition="simple:additions"/>
+            <head>TO The Honourable Sir <hi>James Langham,</hi> KNIGHT and BARONET.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>
+               <hi>EVER</hi> ſince I had the honour to make one in the number of your Vaſt Acquaintance, I have had an extream ambi<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ion to publiſh to the world my happineſs of it, in pay<g ref="char:EOLhyphen"/>ing you my grateful acknow<g ref="char:EOLhyphen"/>ledgments for ſo high a fa<g ref="char:EOLhyphen"/>vour:
+<pb facs="tcp:42877:4"/>and indeed I ſhould have done it ſooner, had <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> found any thing that deſer<g ref="char:EOLhyphen"/>ved ſo great a name a yours to be prefixed to it; <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> name that is equally re<g ref="char:EOLhyphen"/>ver'd and lov'd by all de<g ref="char:EOLunhyphen"/>grees of men who know it even by the loweſt, who ge<g ref="char:EOLunhyphen"/>nerally are prone to defac<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the Scutcheon, and ſullie th<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> fame of ſuch as are abov<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> them.</p>
+            <p>
+               <hi>I KNOW</hi> not wha<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Judgment you will paſs up<g ref="char:EOLunhyphen"/>on me for the unbecomin<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> libertie I take to deſire you<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <pb facs="tcp:42877:4"/>Patronage and Protection for this ſmall Treatiſe; but I am ſure, the deceaſed Au<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hor (were he capable of <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eturning) would think it an unpardonable Injury done to his Memory, if I <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ad not made choice of a perſon of your great Lear<g ref="char:EOLhyphen"/>ning and Abilities to be the Defender of it.</p>
+            <p>
+               <hi>BE</hi> pleaſed then, SIR, <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o give it a kinde reception, <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nce I preſent you with a Subject which is ſo much your Darling, and ſo con<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>orming to your own parti<g ref="char:EOLhyphen"/>cular
+<pb facs="tcp:42877:5"/>temper, <hi>Praeferens</hi> (a<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the learned Doctor ſays of you) <hi>honeſtan<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> quietem,<note place="margin">L. D. M. in Jugulo cauſae, <hi>Ep.</hi> 19. <hi>f.</hi> 76.</note> ſtudia que literarum i<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ſeducto, vitae a<g ref="char:EOLhyphen"/>ctuoſae ſed habitae inter cel<g ref="char:EOLunhyphen"/>ſiſſimas regni dignitates &amp; munera, quò te tua virtu<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> proveheret. A Subjec<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> which you ſufficiently knew the advantages of, and therefore made your timely retreat from the thronging varieties of troubleſom<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> buſineſs, that you might th<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> more freely enjoy the ſubli<g ref="char:EOLhyphen"/>mer
+<pb facs="tcp:42877:5"/>felicities of undiſtur<g ref="char:EOLhyphen"/>bed and pleaſant ſolitude. <hi>In ſocietate &amp; frequentia animum undique arietari ad varia negotia: &amp; dum partem noſtri temporis, quod ſolidum Deo debe<g ref="char:EOLhyphen"/>tur, amicus, ſodalis, procu<g ref="char:EOLhyphen"/>rator, uxor, liberi fibi quiſque rapit, tempus vitae noſtrae quaſi in fruſta con<g ref="char:EOLhyphen"/>cidi, &amp; Deo ſubtrahi.</hi>
+            </p>
+            <p>
+               <hi>AND</hi> certainly (as the moſt Ingeni<g ref="char:EOLhyphen"/>ous Mr.<note place="margin">In his Eſſay of Solitude, <hi>fol.</hi> 91.</note> 
+               <hi>Abra<g ref="char:EOLhyphen"/>ham Cowley</hi> re<g ref="char:EOLhyphen"/>marques) the
+<pb facs="tcp:42877:6"/>meaning of that Sentence, <hi>Nunquam minus ſolus quam cum ſolus,</hi> ſpoken by the excellent <hi>Scipio,</hi> was, <hi>That he found more ſatis<g ref="char:EOLhyphen"/>faction to his minde, and more improvement of it by ſolitude, than by com<g ref="char:EOLhyphen"/>pany; or elſe he would never, after he had made</hi> Rome <hi>Miſtreſs of almoſt the whole world, have retired himſelf from it by a volun<g ref="char:EOLhyphen"/>tary exile, and at a private houſe in the middle of a Wood neer</hi> Linternum, <hi>paſſed the remainder of his
+<pb facs="tcp:42877:6"/>glorious life no leſs glori<g ref="char:EOLhyphen"/>ouſly.</hi>
+            </p>
+            <p>
+               <hi>ARISTOTLE</hi> poſitively concludes, that the love of a ſolitarie and private life, in a man of Letters and Cogitation, proceeds from an heroical vertue, which raiſes him above the level of ordinary mankind, to place him in ſome kind of equality with the Gods themſelves; whilſt the o<g ref="char:EOLhyphen"/>thers, that are run down with the torrent of publick affairs, (whatever their conditions and eminencies
+<pb facs="tcp:42877:7"/>may be) are but as golden Slaves and Vaſſals to them: they are conſtantly employed in the vexatious drudgeries of Humane ſtate, when thoſe are in a continual ſerenitie and peacefulneſs of mind, under the more refin'd and exalted Contemplations.</p>
+            <p>
+               <hi>VIRGIL</hi> very well un<g ref="char:EOLhyphen"/>derſtood what he did, when he deſired but to have two Wiſhes granted him, that ſo he might be compleatly happie as to this world; and the firſt was, to be a good
+<pb facs="tcp:42877:7"/>Philoſopher; the ſecond, a good Husband-man: the one obliging him to retire from the Citie; the other, to become a Recluſe to the world; to have the large Campagne of Heaven for his mind to walk in, and all the works of Nature to con<g ref="char:EOLhyphen"/>ſider on, without being ju<g ref="char:EOLhyphen"/>ſtled on the one hand by the buzzing diſturbances of the ambitious flattering Court, or on the other, by the noiſie hummings of the gid<g ref="char:EOLhyphen"/>die Multitude: <hi>Philoſophi debent averſari aulas Re<g ref="char:EOLhyphen"/>gum,<note place="margin">Marſil.ficinus</note>
+                  <pb facs="tcp:42877:8"/>quia ibi nec veritas, nec tranquillitas, ſed ſimulatio,</hi> ſays my Au<g ref="char:EOLhyphen"/>thor of the former; and which methinks <hi>Juvenal</hi> does very elegantly expreſs to us in his <hi>Quid Romae faciam?</hi>
+               <note place="margin">Sat. 3.</note> 
+               <hi>men<g ref="char:EOLhyphen"/>tiri neſcio:</hi> For the wiſe mans tongue is always, and cannot but be, the Interpre<g ref="char:EOLhyphen"/>ter of his heart. And as for the latter, <hi>Seneca</hi> ſays, <hi>Inimica eſt multorum con<g ref="char:EOLhyphen"/>verſatio, nemo aliquod no<g ref="char:EOLhyphen"/>bis vitium non commendat, aut imprimit.</hi>
+               <note place="margin">Epiſt. 70.</note> We
+<pb facs="tcp:42877:8"/>ſhall not be able to commu<g ref="char:EOLhyphen"/>nicate with them in any ci<g ref="char:EOLhyphen"/>vil complaiſance, but we muſt commend their Vices, and ſo bring wounds and blemiſhes on our own Inno<g ref="char:EOLhyphen"/>cence: but when we are under the glorious liberty of a ſhadie ſolitude, we are in an incapacitie then of fee<g ref="char:EOLhyphen"/>ling the ſtrong appulſes of defiling vice, meeting there with no temptations from gaudy Honour to dazle our eyes, and ſteal our beſt part from us.</p>
+            <pb facs="tcp:42877:9"/>
+            <p>
+               <hi>SIR,</hi> this is a Subject ſo agreeable to dilate upon, that I ſhould not be wearie, if I were voluminous in it; but I muſt not, to pleaſe my ſelf, forget that deference I owe to you; nor muſt I be unmindful that I am now on the Author's behalf an humble ſuppliant for your kindneſs and favour, and therefore it does not become me to be tedious: I ſhall onely ſay this, That the world is ſo ſenſible of your great Learning and Judge<g ref="char:EOLhyphen"/>ment, that it will not dare
+<pb facs="tcp:42877:9"/>to diſprove of any thing which you ſhall ſeem to give countenance to, and like.</p>
+            <p>
+               <hi>AND</hi> as your value and eſteem of it will much advance its Credit and Re<g ref="char:EOLhyphen"/>putation in our Language, (which in ſome reſpect I cannot greatly doubt you will deny me, it having had the general approbation of the Learned who have read it, for the moſt inſinuating piece of its kind) ſo your eaſie readineſs to forgive
+<pb facs="tcp:42877:10"/>the preſumption of this bold Addreſs, will be a forcible obligation upon me to be all my life,</p>
+            <closer>
+               <signed>Sir, Your moſt humble, and moſt obedient Servant.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="dialogue">
+            <pb n="1" facs="tcp:42877:10"/>
+            <head>The PREROGATIVE OF A Private Life: By way of Dialogue BETWEEN <hi>Philoponus</hi> and <hi>Heſychius.</hi>
+            </head>
+            <sp>
+               <speaker>Philoponus.</speaker>
+               <p>IS it poſſible, <hi>Heſychius,</hi> that neither point of Ho<g ref="char:EOLhyphen"/>nour, nor the conſidera<g ref="char:EOLhyphen"/>tion of Profit, nor the reſpect of Pleaſure, which are things that are ſo advanta<g ref="char:EOLhyphen"/>gious in the Charges and divers Employments of a Civil life, are
+<pb n="2" facs="tcp:42877:11"/>capable to divert you from this ſluggiſh idleneſs, and make you quit a courſe of life ſo retired and private, that I queſtion whe<g ref="char:EOLhyphen"/>ther you ought to be put in the number of the Living; your houſe ſerving already as a <hi>Sepul<g ref="char:EOLhyphen"/>ture,</hi> before which I never paſs, but I have a ſtrong impulſe in me to ſet upon it this Inſcri<g ref="char:EOLhyphen"/>ption:</p>
+               <q>
+                  <hi>Here lies the poor</hi> Heſychius.</q>
+               <p>Much what the ſame that <hi>Seneca</hi> ſaid always as he went to <hi>Cumes, Vates hic ſitus est</hi>
+                  <note n="*" place="margin">Sen. <hi>E<g ref="char:EOLhyphen"/>pist.</hi> 55.</note>, before the houſe of a man who lived much after the dull rate as you do. This is meerly to be drunk with a <hi>Liquor</hi> which ought not to be
+<pb n="3" facs="tcp:42877:11"/>taken, but with the greateſt ſo<g ref="char:EOLhyphen"/>briety. <hi>Philoſophy</hi> is a ſweet and pleaſant <hi>Honey,</hi> but it ought onely to be taſted with the tip of the finger; otherwiſe it will make your head diſordered, and give you very dangerous <hi>Verti<g ref="char:EOLhyphen"/>goes. Cato</hi> had great reaſon, when he ſaid to his Son, ſpea<g ref="char:EOLhyphen"/>king of the <hi>Philoſophers</hi> of his time, under the name of the <hi>Greeks,</hi> who were then the Pro<g ref="char:EOLhyphen"/>feſſors of it, <hi>Satis est ingenia Graecorum in<g ref="char:EOLhyphen"/>ſpicere,</hi>
+                  <note place="margin">Plin. <hi>l.</hi> 24. <hi>c.</hi> 1.</note> 
+                  <hi>non perdiſcere:</hi> Prophecying to him great diſ<g ref="char:EOLhyphen"/>graces, if they would penetrate and ſearch too far into them; <hi>Quandocunque iſta Gens, ſuas literas dabit omnia corrumpet, hoc puta vatem dixiſſe.</hi> 'Twas upon this conſideration, that
+<pb n="4" facs="tcp:42877:12"/>the <hi>Romans</hi> burnt the Books of <hi>Numa,</hi> and afterwards ſeveral times drove the <hi>Philoſophers</hi> out of their <hi>Cities,</hi> after the exam<g ref="char:EOLhyphen"/>ple of the moſt ſage <hi>Republicks</hi> of <hi>Greece,</hi> who have ſo often perſecuted them. This Attra<g ref="char:EOLhyphen"/>ctive <hi>Philoſophy,</hi> which they taught the world, may well be compared to the fabulous <hi>Scylla</hi> that our <hi>Poets</hi> deſcribe to us.</p>
+               <q>
+                  <l>Prima hominis facies, &amp; pul<g ref="char:EOLhyphen"/>chro pectore virgo</l>
+                  <l>Pube tenus, poſtrema, immani pectore piſtrix,</l>
+                  <l>Delphinum caudas. utero com<g ref="char:EOLhyphen"/>miſſa luporum.</l>
+                  <bibl>
+                     <hi>Vir. 1. Aeneid</hi>
+                  </bibl>
+               </q>
+               <p>There is nothing more charming at firſt ſight; they are onely the Diſcourſes of Humane. <hi>Fe<g ref="char:EOLhyphen"/>licity;</hi>
+                  <pb n="5" facs="tcp:42877:12"/>and all thoſe <hi>Treatiſes</hi> are as ſo many ways that con<g ref="char:EOLhyphen"/>duct you to it: but if once you come too cloſe, and would be ſearching into the moſt ſecret Myſteries, you will finde your ſelf ſtraight in a gulf and preci<g ref="char:EOLhyphen"/>pice, in the midſt of its abſurd Queſtions and its extravagant Maximes; which, like wilde beaſts, will afflict your mind, and perſecute it on every ſide. There<g ref="char:EOLhyphen"/>fore it is not with<g ref="char:EOLhyphen"/>out reaſon that <hi>Philo<g ref="char:EOLhyphen"/>ſtratus</hi> repreſents to us the Soul of <hi>Palamedes,</hi>
+                  <note place="margin">
+                     <hi>De vita</hi> A<g ref="char:EOLhyphen"/>poll. <hi>l.</hi> 3. <hi>c.</hi> 6.</note> an ab<g ref="char:EOLhyphen"/>ſtracted <hi>Philoſopher,</hi> as you may be; which being tranſmitted into another body, is ſo inraged againſt, and wiſhes ſo great an evil to <hi>Philoſophy,</hi> as to that which had never been of any
+<pb n="6" facs="tcp:42877:13"/>ſervice to him, and which with all his Learning that he had alſo increaſed, had not the power to keep him from falling under the good conduct of <hi>
+                     <g ref="char:V">Ʋ</g>lyſſes,</hi> his E<g ref="char:EOLhyphen"/>nemie, a Patron of humane pru<g ref="char:EOLhyphen"/>dence in the active life: as for my part, I have always eſteemed, and taken for a Rule in my Stu<g ref="char:EOLhyphen"/>dies, the Saying of <hi>Neoptolemus, Philoſophandum est paucis,</hi>
+                  <note place="margin">Emen, apud Agell. <hi>l.</hi> 5. <hi>c.</hi> 15.</note> 
+                  <hi>nam omnino haud placet.</hi> It is good to ſtudy <hi>Philoſophy,</hi> provided it be at <hi>certain hours:</hi> We are permitted to think <hi>highly</hi> of things, ſo that it be without <hi>ex<g ref="char:EOLhyphen"/>travagance. Contemplation</hi> is not forbidden us, if it does but give place, and leave us any time for <hi>good actions:</hi> for there is nothing ſo <hi>excellent</hi> in the
+<pb n="7" facs="tcp:42877:13"/>world, but its <hi>extremities</hi> are <hi>vitious;</hi> Intemperance being had in <hi>Learning</hi> it ſelf, and in <hi>Philoſophy:</hi> You do not per<g ref="char:EOLhyphen"/>ceive that inſtead of making any profitable ſervice of its <hi>Maximes,</hi> you cauſe your ſelves ſervilely to be its <hi>ſlaves;</hi> in<g ref="char:EOLhyphen"/>ſtead of governing it according to your <hi>occaſions,</hi> it exerciſes a tyrannical <hi>Empire</hi> over you in its way; inſtead of poſſeſſing it as a thing of your own, it poſſeſſes and agitates you, as if ſome bad <hi>Demon</hi> had you in his power.</p>
+            </sp>
+            <sp>
+               <speaker>Heſychius.</speaker>
+               <p>There onely wants a good <hi>Exorciſm</hi> to deliver us from this unclean and evil Spi<g ref="char:EOLhyphen"/>rit. Goodneſs, <hi>Philoponus!</hi> how greatly I pity you upon one conſideration, and how
+<pb n="8" facs="tcp:42877:14"/>heartily you make me laugh up<g ref="char:EOLhyphen"/>on another: I have an extream compaſſion for you, to ſee you thus utter your injurious Ca<g ref="char:EOLhyphen"/>lumnies againſt ſo venerable and ſacred a thing, which are, I be<g ref="char:EOLhyphen"/>lieve, as ſo many Ejections of your venome againſt <hi>Heaven</hi> it ſelf, and which will fall down again upon your own face. But I am not any whit leſs pleaſed with the conſideration of that gentile judgment you make of me, in eſteeming me a <hi>Philoſo<g ref="char:EOLhyphen"/>pher,</hi> and ſeeing in what a Pre<g ref="char:EOLhyphen"/>dicament you range all thoſe, who truly may deſerve that ti<g ref="char:EOLhyphen"/>tle, at preſent too much fill'd with envie and calumnie, by me to be avow'd, if I ſhall in<g ref="char:EOLhyphen"/>genuouſly confeſs to you, that it is from them I have learnt to
+<pb n="9" facs="tcp:42877:14"/>give my ſelf that ſatisfaction of you, and thoſe that reſemble you, at whoſe contempt they chiefly glorie, and derive from it an extraordinarie advantage, apprehending nothing ſo much as your Approbation, and never are more miſtruſtful of their fai<g ref="char:EOLhyphen"/>lings, than when it happens that they have pleaſed you. What crime can I have committed, did then <hi>Antiſthenes</hi> aſk, that thoſe men do ſo much eſteem and applaud me?</p>
+               <q>Si vis beatus eſſe, cogita hoc pri<g ref="char:EOLhyphen"/>mùm, contemnere &amp; contem<g ref="char:EOLhyphen"/>ni; nondum es faelix, ſi te turba non deriſerit.</q>
+               <p>This is the Sentence that <hi>Epicte<g ref="char:EOLhyphen"/>tus</hi> does ſo often repeat.</p>
+            </sp>
+            <pb n="10" facs="tcp:42877:15"/>
+            <sp>
+               <speaker>Philop.</speaker>
+               <p>I never did expect from you this <hi>Reparty,</hi> which cannot well be given but onely to the <hi>Populace,</hi> and not to men of our condition: but in every Caſe and Circumſtance, remem<g ref="char:EOLhyphen"/>ber that there are not any worſe maladies in the world, either as to the bodie, or to the minde, than thoſe that ſeize upon, and yet do not make us ſenſible of the diſtemper.</p>
+            </sp>
+            <sp>
+               <speaker>Heſych.</speaker>
+               <p>Then, <hi>Philoponus,</hi> you believe that your <hi>Office</hi> has greatly diſtinguiſhed you from the <hi>common rank</hi> of men, and you are ſtill ignorant of the lit<g ref="char:EOLhyphen"/>tle difference that thoſe of whom you ſpeak do put be<g ref="char:EOLhyphen"/>tween your <hi>Purple</hi> and the <hi>cour<g ref="char:EOLhyphen"/>ſest Stuff</hi> that covers the mea<g ref="char:EOLhyphen"/>neſt <hi>Mechanick.</hi>
+               </p>
+               <pb n="11" facs="tcp:42877:15"/>
+               <q>
+                  <p>Vulgus tàm chlamydatos, quàm coronam voco.</p>
+                  <bibl>
+                     <hi>Senec. de vit. beat.</hi> cap. <hi>2.</hi>
+                  </bibl>
+               </q>
+               <p>Know, that neither the higheſt Dignities of a <hi>State,</hi> nor the firſt Charges and Offices of a Court, nor the moſt important and e<g ref="char:EOLhyphen"/>minent places of a <hi>Palace,</hi> do keep and hinder a man, as they conſider him, from being of the number of the people: <hi>Togis iſti non judiciis diſtant,</hi> ſay they, thoſe are all weakly vulgar ſpi<g ref="char:EOLhyphen"/>rits, which they place alſo in the ſame <hi>Categorie.</hi> But not to put you into an ill humour, ſince that otherwiſe our antient Acquaintance will not permit us to treat one another with ſo much rigour and ſeveritie, I
+<pb n="12" facs="tcp:42877:16"/>would gladly examine with you the Courſe of my life, and con<g ref="char:EOLhyphen"/>ſider ſeriouſly, now we are to<g ref="char:EOLhyphen"/>gether, if my manner of pro<g ref="char:EOLhyphen"/>cedure and actings will be found as criminal and blame<g ref="char:EOLhyphen"/>able as you have ſtrenuouſly reproach'd me for them, after you have in a few words diſ<g ref="char:EOLhyphen"/>cours'd and ſaid upon the ſubject of <hi>Philoſophy,</hi> that all the Per<g ref="char:EOLhyphen"/>ſecutions which it has ever ſuf<g ref="char:EOLhyphen"/>fered, and all that has moſt ca<g ref="char:EOLhyphen"/>lumniouſly been impos'd upon it, cannot proceed but either From Ignorance or Envie, ex<g ref="char:EOLhyphen"/>cept you will take for <hi>Philoſo<g ref="char:EOLhyphen"/>phers,</hi> I know not what kind of half-learned Gentlemen, or I know not what contenti<g ref="char:EOLhyphen"/>ous <hi>Pedants,</hi> who after they have ſpent their whole age upon
+<pb n="13" facs="tcp:42877:16"/>Books, do finde that they have onely (as it were) run the <hi>gan<g ref="char:EOLhyphen"/>tlet</hi> through all the <hi>Sciences,</hi> without ever having ſtai'd to penetrate into the true and eſ<g ref="char:EOLhyphen"/>ſential <hi>Philoſophy;</hi> therein much-what like to your <hi>
+                     <g ref="char:V">Ʋ</g>
+                     <g ref="char:EOLhyphen"/>lyſſes,</hi>
+                  <note place="margin">Diog Laerr. in Ariſtipp.</note> whom ſo migh<g ref="char:EOLhyphen"/>tily juſt now you in<g ref="char:EOLhyphen"/>ſiſted on, who went down into the <hi>infernal ſhades,</hi> took notice of all thoſe perſons of that Countrie, excepting the Queen <hi>Proſerpina,</hi> who was the moſt notorious and remarkable Ob<g ref="char:EOLhyphen"/>ject that he could ſee there. But now let us conſider whe<g ref="char:EOLhyphen"/>ther thoſe three powerful <hi>De<g ref="char:EOLhyphen"/>mons</hi> of <hi>Humane life, Honeſty, <g ref="char:V">Ʋ</g>tility,</hi> and that which is <hi>de<g ref="char:EOLhyphen"/>lectable,</hi> do ſo abandon me, or are ſo extreamly contrary to me,
+<pb n="14" facs="tcp:42877:17"/>as you have moſt violently pre<g ref="char:EOLhyphen"/>ſuppoſed to me at the beginning of your Diſcourſe: &amp; what will you ſay if I diſcover to you, that I receive from them more fa<g ref="char:EOLhyphen"/>vour and kindneſs in one day, than thoſe have had in all their lives, whom you believe are the moſt advanced and bleſs'd in their good graces?</p>
+            </sp>
+            <sp>
+               <speaker>Philop.</speaker>
+               <p>As for the firſt point, who is he that has this honeſtie or honour?</p>
+               <q>
+                  <p>Eſt enim honeſtas honoris ſtatus, (<hi>ſays</hi> Iſidore) unde idem ho<g ref="char:EOLhyphen"/>neſtum, quod honore dignum.</p>
+                  <bibl>
+                     <hi>10 Ethym.</hi> cap. <hi>9.</hi>
+                  </bibl>
+               </q>
+               <p>You will confeſs with me, that this is the greateſt of exterior good things, even in the judge<g ref="char:EOLhyphen"/>ment
+<pb n="15" facs="tcp:42877:17"/>of <hi>Ariſtotle,</hi>
+                  <note place="margin">Eth<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ad Nic. <hi>l.</hi> 1. <hi>c.</hi> 5. &amp; <hi>l.</hi> 4. <hi>c.</hi> 3.</note> as he who is moſt ſol<g ref="char:EOLhyphen"/>licitouſly courted and ſought by thoſe in whom the other good things are found, and of whom even the very <hi>Gods</hi> themſelves ſeem to be am<g ref="char:EOLhyphen"/>bitious. Now if this honour be nothing elſe but an eminent and ſplendid Reſpect, and a glorious teſtimonie of Eſteem and Reverence which we bear to perſons of a great and ſhining Vertue, and of Illuſtrious Merit, how then can you poſſibly pre<g ref="char:EOLhyphen"/>tend that the leaſt Ray of this Glorie can ſhine upon you, who make a Profeſſion of living in the deepeſt obſcuritie of your houſe? and how is it likely that you ſhould receive the re<g ref="char:EOLhyphen"/>compence of good and vertu<g ref="char:EOLhyphen"/>ous actions.</p>
+               <pb n="16" facs="tcp:42877:18"/>
+               <p>
+                  <q>(Chi ſemina virtù, fama raccoglie)</q> you who renounce all the Fun<g ref="char:EOLhyphen"/>ctions and Offices of the <hi>civil</hi> life, to enjoy a lazie and ſlug<g ref="char:EOLhyphen"/>giſh repoſe, or to ſay better, a ſhameful idleneſs? for all Eſteem and Reputation proceeds from ſome knowledge; and this knowledge cannot come but from our own carriages and actions, when they are evident and conſpicuous, and that by the Work the Workman is known; and ſo long as
+<q>Cada uno es hijo de ſus obras,</q>
+and as the <hi>School</hi> ſays,
+<q>
+                     <g ref="char:V">Ʋ</g>t ſe habet unumquodque ad eſſe, ita &amp; ad operandum.</q>
+                  <pb n="17" facs="tcp:42877:18"/>how then, annihilating the cauſe, can the effect follow? and by what means, living alone by your ſelf, and from the com<g ref="char:EOLhyphen"/>merce of all Mankind, will you obtain from them the recom<g ref="char:EOLhyphen"/>pence of an unknown Vertue, and of a Merit which does not appear?</p>
+            </sp>
+            <sp>
+               <speaker>Heſych.</speaker>
+               <p>I do eaſily perceive the Errour that makes you to argue after this manner; and it is, that you ſeeing us to be out of Employment, out of the troubleſome hurrie and agitati<g ref="char:EOLhyphen"/>on of Buſineſs, leading a moſt Retir'd life, and as much out of the noiſe as poſſible, you ſtraight conclude we are without action, and by conſequence without Virtue, and without Honour, ſince that Vertue conſiſts in
+<pb n="18" facs="tcp:42877:19"/>Action; and Honour ought to be the price and recompence of Vertue only: but I would have you know, there are not greater and more important actions, than thoſe of a Soul truly <hi>Philo<g ref="char:EOLhyphen"/>ſophical,</hi> when it is deepeſt in Contemplation.
+<q>
+                     <p>Depone hoc apud te, nunquàm plus agere ſapientem, quàm cum in conſpectu ejus divina atque humana venerunt.</p>
+                     <bibl>
+                        <hi>Sen.</hi> Epiſt. <hi>69.</hi>
+                     </bibl>
+                  </q> ſays the <hi>Roman Philoſopher:</hi> for as it is viſible in <hi>Mechanical</hi> Arts, that there are none more active than thoſe which have the Conduct and Command, al<g ref="char:EOLhyphen"/>though they appear often with<g ref="char:EOLhyphen"/>out motion; the ſame may be
+<pb n="19" facs="tcp:42877:19"/>ſaid of <hi>Philoſophers,</hi> as <hi>Ariſtotle</hi> reports,</p>
+               <q>Quorum <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, contemplationes, &amp; <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, ratiocinationes, acti<g ref="char:EOLhyphen"/>ones, &amp; quidem longè caeteris perfectiores, vocat.</q>
+               <p>Otherwiſe, ſays he,<note place="margin">7 Polit. <hi>cap.</hi> 3.</note> we ſhould be forc'd to think very ill of Na<g ref="char:EOLhyphen"/>ture, and of the <hi>World,</hi> who do not produce any actions out of themſelves:</p>
+               <q>Parum pulchre eſſet Naturae, &amp; to<g ref="char:EOLhyphen"/>ti Mundo, quibus non ſunt ex<g ref="char:EOLhyphen"/>ternae actiones, neque ullae aliae praeterquam eorum propriae.</q>
+               <p>Which reaſon made that <hi>Antient</hi> ſpeak ſo gentily and ſo well,
+<pb n="20" facs="tcp:42877:20"/>
+                  <hi>Satius est otioſum eſſe quam nihil agere.</hi>
+                  <note place="margin">Attil. apud Plin. <hi>lib.</hi> 1. <hi>Epiſt.</hi> 9.</note> And truly, if we are not called Men but from that ſupe<g ref="char:EOLhyphen"/>riour part which is within us, and our Minde being our Form, is that which gives us our Being, we may very well ſay, that thoſe Functions and Operations are our principal and moſt im<g ref="char:EOLhyphen"/>portant Actions; and therefore they ought to be followed with the moſt ſolid glorie, and with the honour of the beſt allay that is poſſible to be found here be<g ref="char:EOLhyphen"/>low.</p>
+            </sp>
+            <sp>
+               <speaker>Philop.</speaker>
+               <p>But ſince we are a <hi>Compoſition</hi> made up of two parts, and it is the <hi>union</hi> of the <hi>Soul</hi> and <hi>Body</hi> which makes us Men, wherefore ſhould we de<g ref="char:EOLhyphen"/>nie one of theſe two <hi>Moieties</hi>
+                  <pb n="21" facs="tcp:42877:20"/>its Functions? for by your own <hi>Maximes,</hi>
+                  <q>
+                     <g ref="char:V">Ʋ</g>numquodque est propter ſuam operationem;</q> therefore when your <hi>Philoſo<g ref="char:EOLhyphen"/>phy</hi> becomes ſo airie and ſpiritu<g ref="char:EOLhyphen"/>al, that it onely actuates this principal and ſuperiour part, you do not perceive that inſtead of making your ſelf a Man, you raiſe your ſelf to a <hi>Phantôm;</hi> and that to give it a more <hi>perfect being,</hi> you take from it the <hi>Real,</hi> or at leaſt the <hi>Reaſonable</hi> for the <hi>Chimerical.</hi> But moreover, the moſt notable and eminent a<g ref="char:EOLhyphen"/>mong you, as the greateſt part of the <hi>Stoicks,</hi> are not ſo much againſt the Occupations of the <hi>life Politick.</hi> For thoſe ſay, that
+<pb n="22" facs="tcp:42877:21"/>there are three kinds or ways of living, whereof they call the one <hi>Speculative,</hi> the other <hi>Active,</hi> and the third a <hi>Compound</hi> of the two other <hi>reaſonable,</hi> which was that which ought to be choſen and preferr'd by men of good diſcourſe, ſince that <hi>Nature</hi> hath ſeem'd to have form'd us expreſly capable of thoſe two Exerciſes, and that for this rea<g ref="char:EOLhyphen"/>ſon we were called <hi>Reaſonable Animals;</hi> As <hi>Diogenes Laertius</hi> hath very well obſerv'd in divers places of the life of <hi>Zenon. Epictetus,</hi>
+                  <note place="margin">Arrian. <hi>lib.</hi> 4. <hi>cap.</hi> 4.</note> one of the Principal of that <hi>Sect,</hi> equally laughs at thoſe who make it all their buſineſs and concern to ſeek out Char<g ref="char:EOLhyphen"/>ges and Employments, as he does at the others, who have
+<pb n="23" facs="tcp:42877:21"/>them in the greateſt averſion, and who flie them ſo as you do; comparing the former to <hi>drop<g ref="char:EOLhyphen"/>ſical</hi> perſons, who are never ſa<g ref="char:EOLhyphen"/>tisfied with drinking; and the latter to thoſe who are <hi>mad,</hi> and cannot ſo much as perceive they are ſo: and alſo that they being things which are equally <hi>inde<g ref="char:EOLhyphen"/>pendent</hi> on us, it is not <hi>reaſon<g ref="char:EOLhyphen"/>able</hi> to faſten our affections on them.</p>
+               <q>
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>
+               </q>
+               <q>Extra te autem est non modo magiſtratus, ſed etiam privatae vitae ſtatus; non modo nego<g ref="char:EOLhyphen"/>tium, verum etiam otium.</q>
+               <p>What great eſteem ought we then to have of this ſweet Re<g ref="char:EOLhyphen"/>poſe,
+<pb n="24" facs="tcp:42877:22"/>which not only <hi>Caeſar</hi> can take away from us when he pleaſes, but the leaſt trouble<g ref="char:EOLhyphen"/>ſome <hi>croaking</hi> of a <hi>Raven,</hi> the noiſe of a Drum, a Fever, and a thouſand other Accidents of life? It is very difficult, ſays he, to have a Diſpoſition accom<g ref="char:EOLhyphen"/>modated to them all, and to be able to ſay at any time with a good heart, that Verſe which <hi>Cleantes</hi> hath made famous:</p>
+               <q>
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>
+               </q>
+               <q>Quocumque voles Jupiter me du<g ref="char:EOLhyphen"/>cito, túque neceſſitas.</q>
+               <p>And what ſay you of <hi>Pytha<g ref="char:EOLhyphen"/>goras,</hi> who was ſo named, <hi>Quod veritatem perinde, atque Pythius loqueretur?</hi> do we not ſee by the Letter that he writ to <hi>Ana<g ref="char:EOLhyphen"/>ximenes,</hi>
+                  <pb n="25" facs="tcp:42877:22"/>how much he invited him to leave off a while the <hi>contemplation</hi> of the <hi>Stars,</hi> and the reſt of <hi>Philoſophy,</hi> to be at leiſure for the <hi>publick</hi> affairs of his <hi>Country?</hi>
+               </p>
+               <q>Nam neque ego ſemper meis vaco fabulis, verùm &amp; de aliis interdum quibus inter ſe <hi>Itali</hi> diſſident.</q>
+               <p>
+                  <hi>Socrates,</hi> whom you ſo mightily eſteem, practis'd the ſame, and thought that there were none but the moſt <hi>melancholick</hi> ſort of perſons, as thoſe <hi>Admirers</hi> or <hi>Heraclitus,</hi> a <hi>Myſon,</hi> an <hi>A<g ref="char:EOLhyphen"/>pemantus,</hi> a <hi>Timon,</hi> and other ſuch <hi>Miſanthropes,</hi> who have agreed with you in your opi<g ref="char:EOLhyphen"/>nion.</p>
+            </sp>
+            <pb n="26" facs="tcp:42877:23"/>
+            <sp>
+               <speaker>Heſych.</speaker>
+               <p>I will inſtantly tell you, that loving Truth above all things, as the moſt pleaſure<g ref="char:EOLhyphen"/>able food of our Souls; with affection I ſeek it, whereſoever it is likely to be found; which hinders me from being parti<g ref="char:EOLhyphen"/>cularly engag'd to any one <hi>He<g ref="char:EOLhyphen"/>reſie,</hi> or <hi>Sect</hi> of <hi>Philoſophy,</hi>
+               </p>
+               <q>Nulli addictus juravi in verba magiſtri;</q>
+               <p>But if I were forc'd to give my Vote and Suffrage in favour of ſome one, I ſhould more pecu<g ref="char:EOLhyphen"/>liarly eſteem that, to which <hi>Potamon</hi> of <hi>Alexandria</hi> gave the name of <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, or <hi>Elective,</hi> becauſe it makes choiſe of what<g ref="char:EOLhyphen"/>ſoever pleaſeth him in all the others, whereof it compoſes its
+<pb n="27" facs="tcp:42877:23"/>
+                  <hi>Syſteme</hi> apart, as a moſt plea<g ref="char:EOLhyphen"/>ſant and agreeable <hi>Honey</hi> drawn out of many different <hi>flowers.</hi> But to anſwer the <hi>authority</hi> of all thoſe greatly <hi>eminent per<g ref="char:EOLhyphen"/>ſons,</hi> which you place on your ſide, (and of whom, I muſt confeſs, one cannot ſpeak with too much veneration, ſince they ſeem only to have been ſent down from <hi>Heaven,</hi> for the in<g ref="char:EOLhyphen"/>ſtitution of humane kinde) we ought to believe that they have with much reaſon exhorted the men of their times to <hi>vertuous actions,</hi> which are practicable in humane Society; and that not being contented only with their <hi>words</hi> and <hi>precepts,</hi> they were alſo willing to give them the <hi>Examples</hi> of their own car<g ref="char:EOLhyphen"/>riages and behaviour. Alſo I
+<pb n="28" facs="tcp:42877:24"/>have never pretended that the <hi>active life</hi> of man, by the <hi>exer<g ref="char:EOLhyphen"/>ciſe</hi> of many <hi>vertues,</hi> had not a great deal of Merit and Re<g ref="char:EOLhyphen"/>commendation: but becauſe Vertues are different, there be<g ref="char:EOLhyphen"/>ing ſome of them far more emi<g ref="char:EOLhyphen"/>nent than others, the <hi>natural</hi> and <hi>acquired,</hi> the <hi>moral</hi> and <hi>intellectual,</hi> methinks that ſince the more <hi>heroick</hi> and <hi>divine</hi> accompany the <hi>contemplative life,</hi> and than that kind of life, as I have already diſcovered to you, produces the moſt worthy and moſt important actions; I ought to be pardoned, if in the conſtraint you have given me, I prefer it not only to the <hi>active life</hi> of the Populace, but alſo to that which you were pleas'd to name <hi>reaſonable,</hi> and which
+<pb n="29" facs="tcp:42877:24"/>is mixt with <hi>action</hi> and <hi>contem<g ref="char:EOLhyphen"/>plation.</hi> And thus in my opi<g ref="char:EOLhyphen"/>nion is <hi>Empedocles</hi> to be under<g ref="char:EOLhyphen"/>ſtood, when he deſpiſed the Government of the eſtate which was preſented to him, that ſo his <hi>Philoſophical Speculations</hi> might not be interrupted.</p>
+               <p>
+                  <hi>Anaxagoras</hi> had the ſame <hi>ſentiment,</hi> when he abandon'd a moſt ample <hi>patrimony,</hi> not to be obliged to be troubled about its <hi>conſervation.</hi> The ſame <hi>conception</hi> made <hi>Democritus</hi> to retire within the <hi>tombes,</hi> and drove <hi>Pyrrhus</hi> into <hi>deſerts.</hi> And as for <hi>Heraclitus,</hi> who reſign'd his <hi>Scepter</hi> into the hands of his <hi>Brother,</hi> you have been pleas'd to make him already paſs for a man of <hi>Bedlam;</hi> and peradventure you put into the ſame Predicament all thoſe
+<pb n="30" facs="tcp:42877:25"/>whom I might alledge to you, except you have ſome higher value and reſpect for the Prince of <hi>Lyceum,</hi> who alſo in my opinion has not yet been taken for an <hi>Hypocondriaque:</hi> and if his <hi>Reaſons</hi> may ſeem of any <hi>weight</hi> with you, and his <hi>Au<g ref="char:EOLhyphen"/>thority</hi> of any <hi>reverence,</hi> pray let me perſuade you to ſee that excellent Exhortation he hath made to a life purely <hi>contem<g ref="char:EOLhyphen"/>plative,</hi> in the latter end of his <hi>Ethicks. Anichomacus</hi> ſay<g ref="char:EOLhyphen"/>ing, <hi>cap.</hi> 7. That it hath the ſame advantages over the other kinds of life, as things <hi>ſimple</hi> have over <hi>compound, divine</hi> over <hi>frail</hi> and <hi>mortal;</hi> laughing at all others, who, like you, will needs have a mixture, and a blending of <hi>Action</hi> and <hi>Me<g ref="char:EOLhyphen"/>ditation:</hi>
+                  <pb n="31" facs="tcp:42877:25"/>We muſt, ſaies he, abandon the <hi>body,</hi> and what<g ref="char:EOLhyphen"/>ſoever is <hi>corruptible,</hi> as much as poſſibly we can, to live principally by the <hi>ſpirit;</hi> thus it is that we do, as it were, come near to the <hi>Divinity,</hi> and thus may we make our ſelves immortal.</p>
+               <q>
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, Neque verò oportet nos humana ſapere, ac ſentire, ut quidam monent, cùm ſimus homines, neque mortalia cùm mortales, ſed nos ipſos quod fieri poteſt à mortalitate vin<g ref="char:EOLhyphen"/>dicare, atque omnia facere, ut ei noſtrae parti, quae in nobis eſt optima, convenien<g ref="char:EOLhyphen"/>ter vivamus.</q>
+               <pb n="32" facs="tcp:42877:26"/>
+               <p>The <hi>Latin Philoſopher,</hi>
+                  <note place="margin">Senec. <hi>Epist.</hi> 73.</note> though otherwiſe a <hi>Stoick,</hi> did not fail to give us the ſame <hi>precepts.</hi>
+               </p>
+               <q>Non cùm vocaveris Philoſophan<g ref="char:EOLhyphen"/>dum est omnia alia negligen<g ref="char:EOLhyphen"/>da, ut huic aſſideamus, cui nullum tempus ſatis magnum est, etiam ſi à pueritia uſque ad longiſſimos humani aevi terminos vita protenditur, non multùm reſert, utrùm omittas philoſophiam, an intermittas.</q>
+               <p>And in another Letter, where he invites his friend not to think of any thing but the cultivating of his minde, if he deſires to get any fruit from it.</p>
+               <q>
+                  <p>Omnia impedimenta dimitte, &amp;
+<pb n="33" facs="tcp:42877:26"/>vaea bonae menti, nunquam ad illam pervenit occupatus, ex<g ref="char:EOLhyphen"/>ercet philoſophia regnum ſu<g ref="char:EOLhyphen"/>um, dat tempus, non accipit, non est res ſubciſciva, ordi<g ref="char:EOLhyphen"/>naria est, domina est, adest &amp; jubet.</p>
+                  <bibl>
+                     <hi>Senec.</hi> Epist. <hi>64.</hi>
+                  </bibl>
+               </q>
+               <p>In truth, as for the <hi>common</hi> ſort of men, who do not go by the name of <hi>Learned</hi> and <hi>Well-read,</hi> taking up onely ſome trivial <hi>Diſcourſes</hi> of <hi>Philoſophy</hi> to paſs away the time withal, and to ſerve them as a <hi>divertiſement</hi> in thoſe <hi>Occupations</hi> which keep them ſubject the reſt of the time; it is not any wonder if it does not exerciſe over them that powerful <hi>Empire:</hi> but as for thoſe, who ply it ſeriouſly, and
+<pb n="34" facs="tcp:42877:27"/>who have once earneſtly engag'd their affections to it, it can't be thought that they are capable of dividing them, and of giving themſelves to other matters.</p>
+               <p>
+                  <q>Non poſſunt ſimul Therſitem, &amp; Agamemnonem agere;</q> for as the Gentile <hi>Lucius</hi> hath well obſerved, great Spirits, and elevated Souls, who have had a better ſhare of the theft of <hi>Pro<g ref="char:EOLhyphen"/>metheus</hi> than others, are much more eaſily ſmitten, and more violently tranſported than the <hi>Populace,</hi> with the love of <hi>Sci<g ref="char:EOLhyphen"/>ences,</hi> and of <hi>Philoſophy;</hi> juſt as the <hi>Indians,</hi> by reaſon of their natural heat, were by the power of Wine ſtruck quite with another kind of fury than
+<pb n="35" facs="tcp:42877:27"/>that of other men. It is true, in <hi>Philoſophy,</hi> as he adds very notably, that <hi>Drunkenneſs</hi> and <hi>Fury</hi> ought to be named <hi>Sobriety</hi> and <hi>Temperance:</hi> for of that <hi>divine Nectar</hi> communicated unto men by <hi>Tantalus,</hi> as <hi>Phi<g ref="char:EOLhyphen"/>loſtratus</hi> interprets it, men can never be ſaid to drink to exceſs. Do not then any more affirm that a life purely <hi>contemplative</hi> is reprehenſible of exceſs; &amp; do not any farther diſpute the pre<g ref="char:EOLhyphen"/>ference of that glory and ho<g ref="char:EOLhyphen"/>nour which ſo many ſignalized perſons have ſo juſtly attributed to it: for if it be by that, that the true <hi>Philoſophers</hi> are called
+<q>
+                     <p>Pares, &amp; Socii Deorum, non ſupplices.</p>
+                     <bibl>
+                        <hi>Senec.</hi> Epist. <hi>31.</hi>
+                     </bibl>
+                  </q>
+                  <pb n="36" facs="tcp:42877:28"/>ſince we do really believe that the <hi>Gods</hi> juſtly deſerve Worſhip and Veneration, we cannot de<g ref="char:EOLhyphen"/>ny Honour and Reſpect to thoſe who come ſo neer to them; and if it be true, <hi>Philoponus,</hi> that <hi>
+                     <g ref="char:V">Ʋ</g>tility</hi> is to be found whereſo<g ref="char:EOLhyphen"/>ever <hi>Honeſty</hi> is to be met with,
+<q>Quippe bonum ex honesto fluit,</q> you will run a great hazard not to get any more advantage from the ſecond point of our <hi>Confe<g ref="char:EOLhyphen"/>rence,</hi> than you have had in the firſt.</p>
+            </sp>
+            <sp>
+               <speaker>Philop.</speaker>
+               <p>And who do you think will any further conteſt with you after ſo rare an <hi>Apo<g ref="char:EOLhyphen"/>theoſis?</hi> for if onely the <hi>Gods</hi> may come in compare, and be equal with you, it is <hi>impiety</hi> for men to contradict you, and
+<pb n="37" facs="tcp:42877:28"/>folly to reſiſt you: Yet never theleſs, becauſe <hi>Jupiter</hi> himſelf has not always diſdain'd the Commerce and Converſation of Mankinde, and ſince moreover, as <hi>Phaedrus</hi> ſays,</p>
+               <q>
+                  <p>Niſi utile est quod facimus, ſtulta est gloria.</p>
+                  <bibl>
+                     <hi>Lib. 3 Fab. 56.</hi>
+                  </bibl>
+               </q>
+               <p>I would moſt willingly learn of you where are thoſe great <hi>Bleſ<g ref="char:EOLhyphen"/>ſings</hi> which come in to you from your continual <hi>Speculati<g ref="char:EOLhyphen"/>ons,</hi> and to what uſe you employ them: for to my thinking, I never yet have ſeen any one among you, who was not very much in want and neceſſity, provided that the actions and <hi>labours</hi> of their <hi>Predeceſſors</hi> have not ſecur'd them from it before<g ref="char:EOLhyphen"/>hand.
+<pb n="38" facs="tcp:42877:29"/>Now that ſo we may underſtand one another, becauſe you make three kinds of <hi>good,</hi> or <hi>utility;</hi>
+                  <q>Bonum enim est utilitas, aut non aliud ab utilitate,</q> ſay the <hi>Stoicks:</hi> Know, that I do not here mean to ſpeak of the goods of the <hi>body</hi> or the <hi>minde,</hi> of which that is not the queſtion now; but I intend by goods, thoſe which are named the <hi>goods</hi> of <hi>fortune,</hi> which give us, and furniſh us with the ne<g ref="char:EOLhyphen"/>ceſſities of this life,
+<q>Lo que ſe uſano ſe eſcuſa,</q> and without which it cannot be but very miſerable.</p>
+               <pb n="39" facs="tcp:42877:29"/>
+               <q>
+                  <l>Turpis enim fama, &amp; contem<g ref="char:EOLhyphen"/>ptus, &amp; acris egeſtas,</l>
+                  <l>Semota ab dulci vita ſtabilique videntur,</l>
+                  <l>Et quaſi jam Lethi portas cunct a<g ref="char:EOLhyphen"/>rier ante.</l>
+                  <bibl>
+                     <hi>Lucret.</hi> lib. <hi>3.</hi>
+                  </bibl>
+               </q>
+               <p>Which has given occaſion to the <hi>Proverb,</hi>
+               </p>
+               <q>
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, Divitiae vir,</q>
+               <p>A rich man, becauſe without Wealth a man is not of any con<g ref="char:EOLhyphen"/>ſideration in the <hi>civil life;</hi> the time not being any more ſo, as it was in that when they made an eſteem of men though naked, as was <hi>
+                     <g ref="char:V">Ʋ</g>lyſſes,</hi> who, as the honeſt <hi>Homer</hi> relates of him, did not want being reſpected and
+<pb n="40" facs="tcp:42877:30"/>honour'd by the <hi>Pheacians,</hi> even in that very condition; but now</p>
+               <q>
+                  <l>— Dat cenſus honores.</l>
+                  <l>Cenſus amicitias, pauper ubique jacet.</l>
+                  <bibl>
+                     <hi>Lucian in Catap.</hi>
+                  </bibl>
+               </q>
+               <p>Inſomuch as the poor Gobler <hi>Mycillus</hi> is contemptuouſly left ſhivering all alone by himſelf upon the Bank by <hi>Charon,</hi> as if <hi>Poverty</hi> carried its <hi>Infamy</hi> along with it even to the other world; whereas on the contrary, the <hi>golden Bow</hi> is <hi>all-powerful,</hi> and full of <hi>veneration.</hi> Which makes me to remember the O<g ref="char:EOLhyphen"/>pinion of the <hi>Chineſes,</hi> who hold mens poverty for an infal<g ref="char:EOLhyphen"/>lible Mark of their ſins: The <hi>Bonzi,</hi> or the <hi>Divines</hi> of <hi>Japan,</hi>
+                  <pb n="41" facs="tcp:42877:30"/>their neighbours, teaching alſo in <hi>publick,</hi> that neither <hi>poor folks</hi> nor <hi>women</hi> can ever be ſa<g ref="char:EOLhyphen"/>ved. For which reaſon, <hi>Riches</hi> are very much called <hi>Means</hi> and <hi>Faculties,</hi> inaſmuch as by their <hi>means</hi> alone all is done; and <hi>Effects,</hi> becauſe therewith they <hi>effect</hi> and accompliſh all manner of Enterprizes. Our <hi>Antients</hi> have alſo given to it the name of <hi>Cheviſance,</hi> becauſe without it they could never put a <hi>chief period</hi> to any thing they under<g ref="char:EOLhyphen"/>took: They alſo make it a part of the <hi>Soveraign good,</hi>
+                  <note place="margin">Luc. <hi>dial.</hi> Diog. <hi>&amp;</hi> Alex.</note> as <hi>Ariſtotle</hi> ſays, though <hi>Diogenes</hi> re<g ref="char:EOLhyphen"/>proches him there for it, in that he had not thus writ, but onely to give himſelf an occaſion and boldneſs to demand and to re<g ref="char:EOLhyphen"/>ceive
+<pb n="42" facs="tcp:42877:31"/>ſome of <hi>Alexander:</hi> But what good face ſoever the moſt <hi>auſtere</hi> among you put upon the matter,</p>
+               <q>
+                  <p>Divitias &amp; opes facilius inve<g ref="char:EOLhyphen"/>nies qui vituperet, quam fa<g ref="char:EOLhyphen"/>ſtidiat.</p>
+                  <bibl>
+                     <hi>Phil. de vit. Apoll.</hi> lib. <hi>1.</hi> cap. <hi>22.</hi>
+                  </bibl>
+               </q>
+               <p>And it is in their conſideration that the Court of <hi>Dionyſius</hi> was ſo fill'd with <hi>Grecian Philoſo<g ref="char:EOLhyphen"/>phers. Plato,</hi> among others, with all his <hi>Divinity,</hi> having even to the third time contemned the ſo <hi>dreadful</hi> dangers of the im<g ref="char:EOLhyphen"/>placable <hi>Carybdis,</hi> to have his <hi>ſhare</hi> in the <hi>liberalities</hi> of that <hi>King.</hi> It would be alſo an over<g ref="char:EOLhyphen"/>great niceneſs in them, not to ſay weakneſs, not to dare to
+<pb n="43" facs="tcp:42877:31"/>take it, for fear they ſhould take it; not to dare to poſſeſs it, for fear they ſhould poſſeſs it; not to dare to uſe it, for fear they ſhould abuſe it.</p>
+               <q>Infirmi animi est pati non poſſe divitias.</q>
+               <p>The Sect of <hi>Apollonius Tyaneus</hi> was ſtifled in its very birth, for profeſſing that pitiful and ſhameful poverty,</p>
+               <q>
+                  <l>Maleſuada Fames, &amp; turpis egeſtas</l>
+                  <l>Terribiles viſu formae.</l>
+                  <bibl>
+                     <hi>Virg. 6. Aeneid.</hi>
+                  </bibl>
+               </q>
+               <p>Now you cannot deny but that it is only action which is capable to preſerve you from it; that
+<pb n="44" facs="tcp:42877:32"/>Eſtates and the good Commo<g ref="char:EOLhyphen"/>dities of life, are not got, at leaſt are not preſerv'd, but by labour.</p>
+               <q>Chi hà arte hà parte, chi non corre non hà il pallio.</q>
+               <p>
+                  <hi>Aeſop</hi>'s Fiſher not being able to catch any fiſh by his playing upon the <hi>Flute,</hi> was conſtrain'd to caſt his <hi>Nets</hi> and his <hi>Tackling</hi> into the <hi>River.</hi> The <hi>Cyclop</hi>
+                  <q>
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>,<note place="margin">Antonay du uvray <hi>Amour. c.</hi> 10. <hi>&amp;</hi> Strabo Geog. <hi>l.</hi> 8.</note> manuventèr,</q> repreſented upon the gate of the Citie of <hi>Argos,</hi> with his hands ſeeming to come out of his belly, learns us that we cannot pre<g ref="char:EOLhyphen"/>ſerve
+<pb n="45" facs="tcp:42877:32"/>and uphold our <hi>Being,</hi> but by the work and labour of our hands. How then is it poſſible for you, in the midſt of your ſo <hi>abſtracted Contemplations,</hi> and your <hi>Olympick Entertainments,</hi> to finde, I will not ſay, <hi>great af<g ref="char:EOLhyphen"/>fluence</hi> and <hi>riches,</hi> but onely the <hi>common neceſſities</hi> of life? for as the <hi>Judiciaries</hi> have very well obſerved, <hi>Jupiter</hi> the diſtributer of Wealth, is oppoſite to <hi>Mer<g ref="char:EOLhyphen"/>cury,</hi> in as much as he that hath the one of them <hi>Aſcendant</hi> upon the Earth at his Nativitie, hath the other <hi>Deſcendant.</hi> Now <hi>Mercury</hi> is the Commander of that of <hi>learned</hi> men and <hi>Philo<g ref="char:EOLhyphen"/>ſophers,</hi> but yet always with ſome regard to that lazie, drea<g ref="char:EOLhyphen"/>ming <hi>Saturn,</hi> which makes you to be of that <hi>good humour,</hi> and
+<pb n="46" facs="tcp:42877:33"/>which imprints in you ſuch commendable <hi>Complexions.</hi> One ought not therefore to wonder, if men of <hi>Learning</hi> and pro<g ref="char:EOLhyphen"/>found <hi>Speculation</hi> are moſt or<g ref="char:EOLhyphen"/>dinarily ſeen to be in want and neceſſity; and for my part, I cannot imagine what wealth you are able to diſcover to me, that does accompanie your <hi>Hy<g ref="char:EOLhyphen"/>perphyſical</hi> Meditations, unleſs you would fain arrive at the <hi>Philoſophers ſtone,</hi> or unleſs the <hi>Demons</hi> do give you a ſhare of their hidden treaſures; for I remember that <hi>Socrates</hi> had one of them for his ordinary Com<g ref="char:EOLhyphen"/>panion.</p>
+            </sp>
+            <sp>
+               <speaker>Heſych.</speaker>
+               <p>Why do you ſend us back to thoſe <hi>Metallick</hi> Spirits? we who have all the <hi>Gods</hi> of <hi>Heaven</hi> for our moſt faithful and
+<pb n="47" facs="tcp:42877:33"/>particular friends, who are able to give us all things, ſince that
+<q>
+                     <p>
+                        <hi>Deorum ſunt omnia.</hi>
+                     </p>
+                     <bibl>Diog. Laert. in vit. Diog.</bibl>
+                  </q> and there is no good thing but what comes from them; and if the <hi>Proverb</hi> be true, That all things are common among Friends,
+<q>
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>,</q> cannot you yet perceive, <hi>Philo<g ref="char:EOLhyphen"/>ponus,</hi> the immenſe greatneſs of our Riches, and how much we poſſeſs beyond all that you can imagine?</p>
+            </sp>
+            <sp>
+               <speaker>Philop.</speaker>
+               <p>You have very good reaſon to call up, and awaken my imagination, ſince that your
+<pb n="48" facs="tcp:42877:34"/>
+                  <hi>Riches</hi> as well as the Viands of the <hi>Banquet</hi> of <hi>witches,</hi> are all things <hi>phantaſtical,</hi> and which are not in the leaſt perceptible to all the <hi>world;</hi> as it is ſaid that the <hi>Philoſophers</hi> have their imagina<g ref="char:EOLhyphen"/>tion much ſtronger than the other common ſort of men: but ſince when I pray, have they contracted this ſtrict friendſhip with the <hi>Gods?</hi> which I believe cannot ſubſiſt but in <hi>Equality</hi> and <hi>Reſemblance.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Heſych.</speaker>
+               <p>Since the time that they gave themſelves, more than any others, the trouble and pains to be <hi>conformable</hi> to them, and to love the <hi>Truth,</hi> to cheriſh <hi>Innocence,</hi> and to conſerve <hi>pure</hi> and <hi>undefiled</hi> that part of the Soul, by which they hold an <hi>affinity</hi> with them. For I agree
+<pb n="49" facs="tcp:42877:34"/>with you, that <hi>Friendſhip</hi> being <hi>Egality.</hi>
+               </p>
+               <q>
+                  <p>
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.</p>
+                  <bibl>6. Eth. ad Niſ. <hi>cap.</hi> 5.</bibl>
+               </q>
+               <p>Now it cannot be your <hi>purple Role</hi> which makes you to re<g ref="char:EOLhyphen"/>ſemble them, for the <hi>Gods</hi> are all <hi>naked;</hi> nor your <hi>Magiſtra<g ref="char:EOLhyphen"/>cy,</hi>
+                  <q>
+                     <p>Neque Deus negotium habet, ne<expan>
+                           <am>
+                              <g ref="char:abque"/>
+                           </am>
+                           <ex>que</ex>
+                        </expan> aliis exhibet.</p>
+                     <bibl>
+                        <hi>Sen.</hi> Epist. <hi>3.</hi>
+                     </bibl>
+                  </q> nor your great <hi>Reputation</hi> and good <hi>Renown;</hi> none knows <hi>God,</hi> and many ſpeak evil of him, and yet are unpuniſhed: Nor is it the manner whereby you are carried in a <hi>Litter,</hi> or drawn in a <hi>Coach;</hi> for <hi>God</hi> car<g ref="char:EOLhyphen"/>ries all things, being the <hi>Centre</hi>
+                  <pb n="50" facs="tcp:42877:35"/>and foundation of the <hi>
+                     <g ref="char:V">Ʋ</g>niverſe:</hi> Nor that <hi>active life,</hi> of which you ſo much brag; for <hi>God,</hi> as the firſt <hi>mover,</hi> is neceſſarily <hi>immovable:</hi> Nor yet your <hi>good meen; God</hi> is <hi>inviſible:</hi> nor your <hi>ſtrength;</hi> that is <hi>periſhing,</hi> and <hi>God</hi> is <hi>immortal:</hi> nor your ſumptuous <hi>feasts;</hi> for the <hi>Gods</hi> eat not: nor your <hi>Tapiſtry</hi>-lod<g ref="char:EOLhyphen"/>gings, and guilded <hi>Furniture; God</hi> inhabits not in any particu<g ref="char:EOLhyphen"/>lar place, but fills all equally:</p>
+               <q>Jupiter est quodcumque vides, quodcumque moveris.</q>
+               <p>Nor, to conclude, are the trea<g ref="char:EOLhyphen"/>ſures and riches you ſo much boaſt of; for the <hi>Gods</hi> have no eſteem and value for them.</p>
+               <pb n="51" facs="tcp:42877:35"/>
+               <q>Cogita Deos cum propitii eſſent futiles fuiſſe.</q>
+               <p>But if I am formed a <hi>Spirit</hi> that deſpiſes all theſe things, if I have a <hi>Soul aſſur'd</hi> and ſtedfaſt againſt all that makes the <hi>Populace</hi> to tremble, if my <hi>Felicity</hi> be <hi>inde<g ref="char:EOLhyphen"/>pendant</hi> of all things which are acquir'd by <hi>Fortune,</hi>
+               </p>
+               <q>
+                  <p>Ingens intervallum inter me &amp; caeteros factum est, omnes mortales multò antecedo, non multùm me Dii antecedunt.</p>
+                  <bibl>
+                     <hi>Senec.</hi> Epist. <hi>54.</hi>
+                  </bibl>
+               </q>
+               <p>Now am I in <hi>affinity</hi> with the <hi>Gods,</hi> I poſſeſs their <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, and full affluence of all things; I de<g ref="char:EOLhyphen"/>ſire nothing more, I have all the Riches of Heaven.</p>
+               <pb n="52" facs="tcp:42877:36"/>
+               <q>Sapiens tàm aequo animo omnia apud alios videt, contemnit<g ref="char:EOLhyphen"/>que quàm Jupiter.</q>
+               <p>O rare <hi>Reſemblance!</hi> O rare <hi>Apotheoſis!</hi> You will poſſibly tell me that the <hi>Gods,</hi> by the advantage and excellence of their nature, have no need of any thing; whereas ours, to maintain and uphold its being, requires the aſſiſtance of many external things, which are a part of the goods and means we ſpeak of, or they cannot be poſſeſt without them. And here now I would demand of you, <hi>Philoponus,</hi> ſince thereby you avow to me that the ſole uſe of things neceſſary to life ought to recommend Riches
+<pb n="53" facs="tcp:42877:36"/>to us, that if your great Occu<g ref="char:EOLhyphen"/>pations had permitted you to make any convenient Reflecti<g ref="char:EOLhyphen"/>ons upon this Subject, to make a good judgement of it, you would not have reproached in us a Purity that is preferable to all manner of the largeſt opu<g ref="char:EOLhyphen"/>lencie.</p>
+               <q>
+                  <p>Magnae divitiae ſunt, lege naturae compoſita paupertas. Lex au<g ref="char:EOLhyphen"/>tem Naturae, ſcis quos nobis terminos ſtatuit? non eſurire, non ſitire, non algere.</p>
+                  <bibl>
+                     <hi>Sen.</hi> Epist. <hi>4.</hi> cap. <hi>27.</hi> &amp; <hi>120.</hi>
+                  </bibl>
+               </q>
+               <p>Thus did that generous Soul underſtand it, who pronounced ſo boldly,</p>
+               <q>
+                  <p>Habeamus aquam, habeamus po<g ref="char:EOLhyphen"/>lentam,
+<pb n="54" facs="tcp:42877:37"/>Jovi ipſi de foelicitate controverſiam faciamus.</p>
+                  <bibl>
+                     <hi>Senec.</hi> Epist. <hi>III.</hi>
+                  </bibl>
+               </q>
+               <p>And in truth, the more things are excellent and divine, the leſs are they of neceſſity, and of dependancie on any other. Children and women have need of a thouſand things, which men can make a ſhift well enough if they want them; and ſo like<g ref="char:EOLhyphen"/>wiſe ſick people, in compariſon of thoſe who have their health. <hi>Hercules,</hi> though he was quite naked, ſave onely his <hi>Lions skin</hi> and his <hi>Club,</hi> walk'd over all the World, of which he was ador'd. Take away the preventions of your minde, ef<g ref="char:EOLhyphen"/>face out of it what the tyrannie of an evil Cuſtom may have
+<pb n="55" facs="tcp:42877:37"/>imprinted in it, renounce thoſe ſottiſh and idle opinions of a diſtracted multitude, examining by the Rules of Right Rea<g ref="char:EOLhyphen"/>ſon the natural neceſſities, and you will finde your ſelf not only to be free from contemptuous indigence, but alſo enjoying an affluence of good things, not onely beyond the ſence, but likewiſe above the fear of Po<g ref="char:EOLhyphen"/>verty.</p>
+               <q>
+                  <l>Divitiae grandes homini ſunt vivere parcè,</l>
+                  <l>Aequo animo, neque enim est penuria parvi.</l>
+                  <bibl>
+                     <hi>Lucret.</hi> l. <hi>5.</hi>
+                  </bibl>
+               </q>
+               <p>The pompous Palaces, ſumptu<g ref="char:EOLhyphen"/>ous Habits, a numerous retinue of Servants, are things very at<g ref="char:EOLhyphen"/>tractive, and full of a dazling
+<pb n="56" facs="tcp:42877:38"/>ſplendour; but apply the Ca<g ref="char:EOLhyphen"/>non and the Rule which we juſt now were mentioning,
+<q>
+                     <p>Appoſita intortos oſtendet regula mores.</p>
+                     <bibl>
+                        <hi>Perſ. Sat. 3.</hi>
+                     </bibl>
+                  </q> and you will finde nothing in them of what we ſeek: nothing which hath its foundation in Nature: but if you will con<g ref="char:EOLhyphen"/>form your life to what Nature demands, you will never be poor; if you will regulate it according to the opinions which are contrary to it, you then will never be rich nor accommoda<g ref="char:EOLhyphen"/>ted. Would you now become more than you are? retrench your deſires, inſtead of increaſing your ſubſtance,
+<pb n="57" facs="tcp:42877:38"/>
+                  <q>Nihil interest utrum non deſide<g ref="char:EOLhyphen"/>res, an habeas,</q> for the thing comes all to one; you will gain more moderation in your <hi>minde,</hi> than you can poſſibly hope for from the libe<g ref="char:EOLhyphen"/>rality of <hi>Fortune.</hi>
+               </p>
+               <q>
+                  <p>Animus facit ſibi parem nihil timendo, facit ſibi divitias nihil concupiſcendo.</p>
+                  <bibl>
+                     <hi>Senec.</hi> Epist. <hi>88.</hi>
+                  </bibl>
+               </q>
+               <p>It is the ſhorteſt and readieſt way that you can take to come to this end.
+<q>Breviſſima ad divitias, per con<g ref="char:EOLhyphen"/>temptum divitiarum via est.</q>
+                  <pb n="58" facs="tcp:42877:39"/>but if once you open the gate to Covetouſneſs, if you once ſuffer the deſire of ſuperfluous things to enter, there are no longer any bounds and limits to conclude your deſires.</p>
+               <q>
+                  <p>Post Darium, &amp; Indos, pauper est Alexander: inventus est qui concupiſceret aliquid post omnia.</p>
+                  <bibl>
+                     <hi>Senec.</hi> Epist. <hi>126.</hi>
+                  </bibl>
+               </q>
+               <p>If you once but fall into this <hi>Dropſie,</hi> there is nothing then capable to quench your thirſt: new Acquiſitions will ſeem to you as ſo many means and ways whereby you may ſtill get freſh ſupplies; and you will finde, beſides this diſgrace, that by this depravation theſe vain and un<g ref="char:EOLhyphen"/>profitable things will then be<g ref="char:EOLhyphen"/>come
+<pb n="59" facs="tcp:42877:39"/>as neceſſary. It is the Leſſon that <hi>Zenon</hi> made after his <hi>ſhipwrack,</hi> when he ſaid,</p>
+               <q>
+                  <p>Tunc ſecundis ventis navigavi, cùm naufragium feci.</p>
+                  <bibl>
+                     <hi>D. Laert.</hi>
+                  </bibl>
+               </q>
+               <p>This was it that made <hi>Crates</hi> the <hi>Theban</hi> throw his money into the Sea, by the counſel and perſwaſion of <hi>Diogenes;</hi> which made <hi>Xenocrates</hi> ſend back again the <hi>thirty Talents</hi> of gold to <hi>A<g ref="char:EOLhyphen"/>lexander;</hi> and which invited <hi>Democritus</hi> (the firſt, ſays <hi>Pliny,</hi> who found out and made known the <hi>Society</hi> of <hi>Heaven</hi> and <hi>Earth</hi>) not to retain any thing of the profit which the <hi>contemplation</hi> of <hi>Heaven</hi> had caus'd him to make on the <hi>Olive-trees;</hi> having
+<pb n="60" facs="tcp:42877:40"/>been ſince imitated by <hi>Sextus</hi> the <hi>Roman Philoſopher:</hi> For it is here that the <hi>Paradox</hi> holds true,</p>
+               <q>Dimidium plus toto,</q>
+               <p>Mediocritie is more valuable by far than abundance: becauſe
+<q>
+                     <p>Multis eget, qui multa habet; magnaque indigentia non ex inopia magna, ſed ex copia magna naſcitur; jactura opus est non queſta, &amp; minus ha<g ref="char:EOLhyphen"/>bendum est ut minus deſit.</p>
+                     <bibl>
+                        <hi>Agell.</hi> l. <hi>9.</hi> c. <hi>8.</hi>
+                     </bibl>
+                  </q>
+               </p>
+               <p>The foot, ſays <hi>Epictetus,</hi> ought to give ſhape and proportion to the ſhoe, and the <hi>neceſſities</hi> of the bodie to rule our poſſeſ<g ref="char:EOLhyphen"/>ſions.
+<pb n="61" facs="tcp:42877:40"/>Whatever goes beyond that meaſure, is rather a hin<g ref="char:EOLhyphen"/>drance than any convenience: Too long and too weightie <hi>Veſtments,</hi> do onely ſerve to load and <hi>trouble</hi> us: The fifth <hi>wheel</hi> added to the <hi>Chariot,</hi> like a third eye to the face, will onely diſ<g ref="char:EOLhyphen"/>figure it, and beſides make it to go with the greater uneaſi<g ref="char:EOLhyphen"/>neſs. How happie was <hi>Socrates</hi> to be able to cry out in the midſt of a well-ſtockt <hi>Fair,</hi>
+               </p>
+               <q>Quàm multis non indigeo!</q>
+               <p>And what a wonderful pleaſure is it for me to ſee <hi>Carmides</hi> in the midſt of <hi>Xenophon</hi>'s Feaſt, to place his greateſt cauſe of boaſting in his <hi>poverty!</hi> for cer<g ref="char:EOLhyphen"/>tainly it is in this apparent
+<pb n="62" facs="tcp:42877:41"/>
+                  <hi>poverty</hi> that the true and eſſen<g ref="char:EOLhyphen"/>tial Riches are found: it is the nouriſhing Mother of <hi>Sciences,</hi> the <hi>Couzen-germain</hi> of good Underſtanding, the great Friend of all Libertie, the inſeparable Companion of ſolid Repoſe. But to be made really ſenſible of theſe things, we ought to be rai<g ref="char:EOLhyphen"/>ſed far above the common level of mankind; we ought to leave equally diſtant below our ſelves, the Prince, the Magiſtrate, and the handicraft Artiſt:</p>
+               <q>Magno animo de rebus magnis judicandum est, alioqui vide<g ref="char:EOLhyphen"/>bitur illarum vitium eſſe, quod noſtrum est.</q>
+               <p>Purifie your Soul, and free your minde from all anticipation, and
+<pb n="63" facs="tcp:42877:41"/>you will then ſoon think other<g ref="char:EOLhyphen"/>wiſe than you have done hither<g ref="char:EOLhyphen"/>to.</p>
+               <q>
+                  <l>Aude hoſpes contemnere opes; &amp; te quoque dignum</l>
+                  <l>Finge Deo, rebuſque veni non aſper egenis.</l>
+                  <bibl>
+                     <hi>Evand. 8. Aeneid.</hi>
+                  </bibl>
+               </q>
+               <p>Inſtead of flying povertie, you will ſeek and court it, as that which gives our Souls a ſeaſon<g ref="char:EOLhyphen"/>ing temper of reſolution and force; ſo as the rigour of a pinching Winter ſhall make our bodies to be more robuſt and prepar'd with fortitude:
+<q>Si vis vacare animo, aut pauper ſis oportet, aut pauperi ſimi<g ref="char:EOLhyphen"/>lis.</q>
+               </p>
+               <pb n="64" facs="tcp:42877:42"/>
+               <p>You will then obſerve that with great reſpect, and not without reaſon, the <hi>Poet</hi> hath nam'd it to us terrible but in appearance, and onely to the eye,
+<q>Terribilis viſu formae,</q> as if he was reſolv'd to let us underſtand thereby, that in ef<g ref="char:EOLhyphen"/>fect, and if we took it rightly as we ought, it was a <hi>pure decepti<g ref="char:EOLhyphen"/>on:</hi> It was that which made <hi>Cleanthes</hi> to bear the <hi>ſurname</hi> of
+<q>
+                     <p>
+                        <gap reason="foreign">
+                           <desc>〈 in non-Latin alphabet 〉</desc>
+                        </gap>, <hi>exhauriens puteos.</hi>
+                     </p>
+                     <bibl>Diog. Laert. in Clean.</bibl>
+                  </q> becauſe, that he might ſet to his <hi>ſtudies</hi> in the <hi>day,</hi> he got his Live<g ref="char:EOLhyphen"/>lihood in the <hi>night</hi> by <hi>drawing</hi>
+                  <pb n="65" facs="tcp:42877:42"/>of <hi>water;</hi> but it rendred him the worthy <hi>Succeſſor</hi> of <hi>Zenon.</hi> It was that which compell'd one of the two Friends <hi>Hepheſtion Proaereſius</hi> to keep the <hi>houſe,</hi> whilſt that the other appear'd in <hi>publick,</hi> having but one only Garment between them; but it likewiſe did put them in the Rank of the moſt Illuſtrious <hi>So<g ref="char:EOLhyphen"/>phiſters</hi> of their <hi>time.</hi> Now if the <hi>extremity</hi> of <hi>indigence</hi> was accounted ſo <hi>tolerable</hi> by thoſe <hi>vertuous</hi> men, and that ſo many others, as we could here name, why ſhould we then complain, and exert our laments, being in a <hi>middle fortune?</hi> why ſhould we eſteem our ſelves to be more pure, becauſe we do not poſſeſs ſuperfluous things, or rather becauſe we are not poſſeſs'd by
+<pb n="66" facs="tcp:42877:43"/>them? As we are ſaid to have a <hi>Fever,</hi> when it is that which holds and poſſeſſes us: But why do not we vaunt it, and make our boaſts with <hi>Anti<g ref="char:EOLhyphen"/>ſthenes,</hi>
+                  <note place="margin">Xenoph. in Symp.</note> for having found out in this ho<g ref="char:EOLhyphen"/>neſt Poverty the greateſt &amp; the onely true Riches that are in the world? They are thoſe which <hi>Socrates</hi> had taught him, to con<g ref="char:EOLhyphen"/>template at leiſure all nature, to meditate with full liberty of minde its true effects; to enjoy an intire and abſolute repoſe, and a real tranquillity; (the moſt eſtimable thing in the world, as he ſaid, <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, the moſt delicate) to paſs his days without interruption and di<g ref="char:EOLhyphen"/>ſturbance, with <hi>Socrates;</hi> to hearken to his <hi>charming</hi> Diſ<g ref="char:EOLhyphen"/>courſes;
+<pb n="67" facs="tcp:42877:43"/>to conſider his <hi>excel<g ref="char:EOLhyphen"/>lent</hi> actions; to draw <hi>important</hi> Leſſons from his leaſt <hi>Move<g ref="char:EOLhyphen"/>ments.</hi> Supernatural Goods are thoſe <hi>incorruptible Riches</hi> that are <hi>independant</hi> on <hi>Fortune;</hi> this wealth which is eaſie to conſerve, and which not all the world can ever diſpoil us of! Here, <hi>Philoponus,</hi> here is a <hi>Sum<g ref="char:EOLhyphen"/>mary</hi> delineation of <hi>Good</hi> and <hi>
+                     <g ref="char:V">Ʋ</g>tility;</hi> which may proceed from an <hi>obſcure</hi> and <hi>particular</hi> life, ſuch as ours is: There one<g ref="char:EOLhyphen"/>ly remains the <hi>pleaſure</hi> and <hi>con<g ref="char:EOLhyphen"/>tentment</hi> of it to be examined, if notwithſtanding any may doubt whether the Goods which we have now deſcribed be moſt pure and perfect; which can<g ref="char:EOLhyphen"/>not be ſo named, if they were not accompanied with delecta<g ref="char:EOLhyphen"/>tion and pleaſures.</p>
+               <pb n="68" facs="tcp:42877:44"/>
+               <q>
+                  <g ref="char:V">Ʋ</g>bi non est <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> gratum, ne <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> bonum quidem eſſe potest.</q>
+            </sp>
+            <sp>
+               <speaker>Philop.</speaker>
+               <p>If you will affirm to me, that <hi>Ariſtotle, Cato,</hi> and ſeveral others, to prove that <hi>Man</hi> is the moſt <hi>ſociable</hi> of all <hi>Animals,</hi> do obſerve that there are none who would poſſeſs all theſe good things together, if they muſt enjoy them ſingly and alone, becauſe in that <hi>ſoli<g ref="char:EOLhyphen"/>tude</hi> they cannot have any ſa<g ref="char:EOLhyphen"/>tisfaction nor contentment: That if at any time we are plea<g ref="char:EOLhyphen"/>ſed with tormenting our ſelves, as it were, in a ſtolen privacie, as <hi>Ajax</hi> did in <hi>Homer,</hi> and that our humour perſwades us to retire our ſelves from the reſt of mankind, there alone like the <hi>Toad,</hi> to <hi>cowre</hi> over our <hi>venome;</hi>
+                  <pb n="69" facs="tcp:42877:44"/>theſe are the effects of a pro<g ref="char:EOLhyphen"/>found <hi>Melancholy,</hi> which at that time bears too much <hi>Empire</hi> over us.</p>
+               <q>Sunt mala mentis gaudia.</q>
+               <p>'Tis a falſe and a deceitful ſatis<g ref="char:EOLhyphen"/>faction and complaiſance, which proceeds from a too hot and corrupted temperament, having no other foundation than our ill Complexion, which de<g ref="char:EOLhyphen"/>praves and alters the functions of our Soul, giving to it the illuſions of a falſe and imaginary pleaſure. It was that made one of the <hi>Ancients</hi> ſay, that among the perils and dangers of life, that of <hi>Solitude</hi> was none of the leaſt; and which might think, that under an auſtere
+<pb n="70" facs="tcp:42877:45"/>meen, and the retir'd viſage of a <hi>Philoſopher,</hi>
+                  <q>
+                     <p>Nec viſu facilis, nec dictu affa<g ref="char:EOLhyphen"/>bilis ulli.</p>
+                     <bibl>
+                        <hi>De Polyph. Virg. 9. Aeneid.</hi>
+                     </bibl>
+                  </q> there might be found a true briſkneſs and gayety of ſpirit. As for my part, I am of opinion that the <hi>Poets</hi> have not expreſs'd to us the torments of <hi>Promethe<g ref="char:EOLhyphen"/>us,</hi> but onely to figure out the pains that ſuch as you are, do give your ſelves every day. Mount <hi>Caucaſus</hi> repreſents to us the <hi>ſolitude</hi> that you profeſs; the <hi>Eagle</hi> which knaws upon his ſtill-renewing heart, is the con<g ref="char:EOLhyphen"/>templation wherewith you in<g ref="char:EOLhyphen"/>ceſſantly afflict your mind, in the narrow ſcrutiny of Cauſes,
+<pb n="71" facs="tcp:42877:45"/>and of Reaſons that ariſe one from the other, and ſo grow on <hi>ad infinitum.</hi> I would adviſe you, <hi>Heſychius,</hi> to fol<g ref="char:EOLhyphen"/>low the counſel which the good <hi>Tyreſias</hi> gave to <hi>Menippus,</hi>
+                  <note place="margin">Lucius in Necyth.</note> for the beſt that you poſſibly can embrace, when he advertis'd him ſoftly in his ear, that if he deſir'd to receive any contentment in his life, he ſhould leave off ſeeking with ſo extraordinary a care and ſtudy, the beginnings and ends of all things;
+<q>Hoc tibi puta vatem dixiſſe,</q> for otherwiſe that excellent Wit will be more prejudicial than of advantage to you; you will onely be ingenious to de<g ref="char:EOLhyphen"/>ceive
+<pb n="72" facs="tcp:42877:46"/>your ſelf, and to create your ſelf a great deal of trouble. But, ſay you, otherwiſe this ſweet and tranquil repoſe which is your <hi>ſoveraign</hi> good, is not to be found but in <hi>ſolitude:</hi> And pray, let me know, what have been the Charms which ſo powerfully bewitch'd you, that you place <hi>Felicity</hi> in a thing that will make thoſe men who are faſt lockt up in ſleep, to be far more happie than when they are never ſo much awake? the <hi>Bears,</hi> and the other ſtupid <hi>Ani<g ref="char:EOLhyphen"/>mals,</hi> the greateſt part of the year, would have a great ad<g ref="char:EOLhyphen"/>vantage over you,
+<q>
+                     <p>Quid est otioſius verme?</p>
+                     <bibl>
+                        <hi>Senec.</hi> Epist. <hi>88.</hi>
+                     </bibl>
+                  </q>
+                  <pb n="73" facs="tcp:42877:46"/>as <hi>Seneca</hi> himſelf affirm. Do not you ſee on the contrary, that an over-great idleneſs and lei<g ref="char:EOLhyphen"/>ſure is that which harraſſes us moſt?</p>
+               <q>
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, ex otio negotium.</q>
+               <p>It is then that we are moſt agi<g ref="char:EOLhyphen"/>tated, we are beating the buſh, and that in hopes of giving our mindes ſome pleaſurable em<g ref="char:EOLhyphen"/>ployment, we are onely crea<g ref="char:EOLhyphen"/>ting a deal of trouble to our ſelves.
+<q>Incertè errat Animus, praeter propter vitam vivitur,</q> as old <hi>Ennius</hi> ſpeaks, it conſumes it ſelf, being of a fiery nature, when we ever deny to give it
+<pb n="74" facs="tcp:42877:47"/>nouriſhment. Is it not true, that the moſt free and metalſom Horſes are ſooneſt ſpoilt in the ſtable? that the delicateſt Gold ſtraight ruſts, if it be not us'd? that the moſt Oriental Pearls loſe their grace and beauty, if they be not often rubb'd and handled? that the moſt raviſh<g ref="char:EOLhyphen"/>ing and ſubtle Perfumes of <hi>Ara<g ref="char:EOLhyphen"/>bia</hi> are corrupted and good for little, if they be not frequently ſtirr'd? And yet you place your greateſt <hi>Contentment</hi> in being without <hi>Action,</hi> your laſt <hi>Fe<g ref="char:EOLhyphen"/>licity</hi> in the enjoyment of an half-dead Idleneſs. Remember, <hi>Heſychius,</hi> that the moſt miſe<g ref="char:EOLhyphen"/>rable of all the <hi>damned,</hi> are the moſt idle, and who moſt con<g ref="char:EOLhyphen"/>template at their eaſe.</p>
+               <pb n="75" facs="tcp:42877:47"/>
+               <q>
+                  <p>—Sedet, aeternúmque ſedebit Infaelix Theſeus, phlegyéſque miſerrimus omnes Admonet.</p>
+                  <bibl>
+                     <hi>Virg. 6. Aeneid.</hi>
+                  </bibl>
+               </q>
+               <p>You ſee that the <hi>Poet</hi> gives us to know and underſtand his torment onely by the perpetual Repoſe to which he is condem<g ref="char:EOLhyphen"/>ned.</p>
+            </sp>
+            <sp>
+               <speaker>Heſych.</speaker>
+               <p>If we ought to make this principal uſe of <hi>Philoſophy,</hi> as <hi>Ariſtippus</hi> ſaid, of ſpeaking boldly to any whomſoever, you will not think it ſtrange, if in the confidence of our ancient Acquaintance, I anſwer you with briſkneſs and freedom. 'Tis an ordinary thing among all thoſe, who, like you, ſpend their lives in the divers occupations
+<pb n="74" facs="tcp:42877:48"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb n="75" facs="tcp:42877:48"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb n="76" facs="tcp:42877:49"/>and troubleſome concerns of a <hi>tumultuous life,</hi> to have very bad conceptions of thoſe, who ſmoothly roul away their years in the ſoft repoſe and ſilence of a <hi>private life,</hi> which proceeds not onely from that natural in<g ref="char:EOLhyphen"/>elination whereby every parti<g ref="char:EOLhyphen"/>cular thing bears an affection for its like, and has an utter abhor<g ref="char:EOLhyphen"/>rence for all that is contrary to it; but alſo from a pleaſure, and an ambition which gets the maſtery over the greateſt part of mankind, and makes them paſſionately to deſire to be e<g ref="char:EOLhyphen"/>ſteemed prudent, and gravely conſiderate in the conduct of their fortune, and by conſe<g ref="char:EOLhyphen"/>quence happy in that kind of life whereof they make profeſ<g ref="char:EOLhyphen"/>ſion. Now when they ſee per<g ref="char:EOLhyphen"/>ſons,
+<pb n="77" facs="tcp:42877:49"/>who by actions that are very different from theirs, ſhew that they have inclinations and ſentiments in all things contrary, they do believe that in them they have found out ſo many confeſſors of their Felicity and of their Judgement; from whence at laſt proceeds that picque and animoſity againſt them. This is it which has in<g ref="char:EOLhyphen"/>vited ſo many great perſons to keep themſelves as much retired and conceal'd as poſſibly they could, and to leave to us the Laws and Precepts of doing the like, upon penalty of running the hazard of that malice and hatred which we are now ſpea<g ref="char:EOLhyphen"/>king of. <hi>Epictetus</hi> continually is propoſing to us the ways of acting, and the comportments of
+<pb n="78" facs="tcp:42877:50"/>
+                  <hi>Socrates,</hi> who ſcarcely, if ever, took upon him the ſtate of a <hi>Philoſopher:</hi> and all his Succeſ<g ref="char:EOLhyphen"/>ſours have agreed pretty well in this point,</p>
+               <q>Bene vixit, qui bene latuit.</q>
+               <p>But becauſe this publick Envie purſues men of good Sence and Judgment even into their moſt particular <hi>Retirements,</hi> one ought, ſays <hi>Seneca,</hi> to imitate thoſe <hi>Animals,</hi> who efface the marks of their <hi>Lurking-places,</hi> ſpoiling the tracts, and confoun<g ref="char:EOLhyphen"/>ding the foot-ſteps by which they get to them. So do you keep, adds he, your leiſure and idle time, the moſt reſerv'd and hid as poſſibly you can; but eſpecially take heed of deriving
+<pb n="79" facs="tcp:42877:50"/>any advantage from it; and thereby ſeeming to covet the title of a <hi>Philoſopher,</hi> impute it rather to an indiſpoſition which conſtrains you to repoſe; ſay that your Imbecility makes you, whe<g ref="char:EOLhyphen"/>ther you will or no, to keep from action; or that your ill fortune does ſpitefully, and to your regret, call you off from thoſe Charges and Employs. To conclude, accuſe your ſelf rather of careleſneſs, and of an unconcern'd humour, than ſuf<g ref="char:EOLhyphen"/>fer them to penetrate into your ſecret inclinations. This, <hi>Phi<g ref="char:EOLhyphen"/>loponus,</hi> is a Leſſon that I have always eſteem'd to be moſt ne<g ref="char:EOLhyphen"/>ceſſary and important, and un<g ref="char:EOLhyphen"/>der the Rules of which I inten<g ref="char:EOLhyphen"/>ded to be conducted for ever; but I ſee cleerly that I have not
+<pb n="80" facs="tcp:42877:51"/>yet been capable abſolutely to ſhelter my ſelf from your anger and indignation, which tranſ<g ref="char:EOLhyphen"/>ports you even to a reproaching of us. Your chagrin and per<g ref="char:EOLhyphen"/>verſe meen, ſay you, is inſuffer<g ref="char:EOLhyphen"/>able, ſince it makes us to reſem<g ref="char:EOLhyphen"/>ble the <hi>Polyphemi,</hi> and the ſavage Wolves. Pray, give me your permiſſion to anſwer you, even by way of repartée and raillery, what the common Father of <hi>Philoſophers</hi> did on the like occaſion, That it is much better for a man to bear the injurious word of dumping, melancholy thinker,
+<q>
+                     <p>
+                        <gap reason="foreign">
+                           <desc>〈 in non-Latin alphabet 〉</desc>
+                        </gap>, <hi>meditator.</hi>
+                     </p>
+                     <bibl>Xenoph. in Symp.</bibl>
+                  </q> than that of a ſenſeleſs, brainleſs <hi>no-wit.</hi>
+               </p>
+               <pb n="81" facs="tcp:42877:51"/>
+               <q>
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, incogitans.</q>
+               <p>You are not leſs angry, when you compare us to the miſerable wretches that are <hi>damn'd</hi> in <hi>Hell,</hi> to the puniſhments of which I might with a much greater reſemblance reduce and equal the calamitous labours of a life without any quiet and repoſe, ſuch as yours is: for if the unfortunate <hi>Tantalus</hi> doth not endure a more cruel torment than that of being neer thoſe <hi>Goods</hi> which he ſees, and yet cannot poſſeſs; how much more miſerable is that man, who feels himſelf diſrob'd of himſelf, knows the contentment of the minde, and the ſolid ſubſtantial pleaſures wherewith that may
+<pb n="82" facs="tcp:42877:52"/>be delighted, and yet he cannot ſatisfie himſelf with any of them, nor enjoy ſo much as one poor ſmall moment of reſt and tran<g ref="char:EOLhyphen"/>quillity? Now this is that which the men of action and buſineſs, like you, do prove, and are ſenſible of dayly; this <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> of the <hi>Greeks,</hi> which cannot be well <hi>tranſlated</hi> into <hi>Latin</hi> or <hi>Engliſh,</hi>
+                  <note place="margin">Agell <hi>lib</hi> 8. <hi>cap.</hi> 16.</note> ha<g ref="char:EOLhyphen"/>ving in it ſuch an I know not what peculiarity and properneſs, that it abſolutely raviſhes a man without leaving him the leaſt poſſeſſion of him<g ref="char:EOLhyphen"/>ſelf, to ſay that he muſt partage and ſhare out his life in ſuch a manner, that there are onely ſome certain days, and a few ſwift hours, for him to beſtow upon ſuch and ſuch Occupati<g ref="char:EOLhyphen"/>ons;
+<pb n="83" facs="tcp:42877:52"/>and to thoſe too he muſt on<g ref="char:EOLhyphen"/>ly lend, and not give up himſelf entirely: I ſhould account you far leſs unjuſt, if you abſolutely condemn'd our <hi>Philoſophy,</hi> than when you are reſolved to mode<g ref="char:EOLhyphen"/>rate and limit them ſo unto<g ref="char:EOLhyphen"/>wardly.</p>
+               <q>
+                  <p>Jure enim eo meliore quo major est, mediocritatem deſideras.</p>
+                  <bibl>
+                     <hi>Luc. de Faceb.</hi>
+                  </bibl>
+               </q>
+               <p>Beſides, this is voluntarily to make the half of your time for certain miſerable, and ſo indeed for the reſt which you think does belong to you. I deſire no other teſtimony than that of your own Reſentment, which, I am ſure, will make you confeſs, that your minde was never ca<g ref="char:EOLhyphen"/>pable
+<pb n="84" facs="tcp:42877:53"/>of receiving this diviſion, without the perplexing remem<g ref="char:EOLhyphen"/>brances of your various affairs come in to thwart it, to give you inſufferable wracks and tortures, the enemies of con<g ref="char:EOLhyphen"/>tentment; and truly now if you can have your minde wor<g ref="char:EOLhyphen"/>thily ſtai'd, and in a <hi>Philoſophi<g ref="char:EOLhyphen"/>cal</hi> calm, amidſt the inqui<g ref="char:EOLhyphen"/>etudes of a <hi>Court,</hi> and the agi<g ref="char:EOLhyphen"/>tations of a <hi>Palace,</hi> I would permit you willingly then to play the <hi>Philoſopher</hi> with us: but yet in the mean time you dare to reproach us that we have not any faithful and real plea<g ref="char:EOLhyphen"/>fures. Alas, we ſhould be a great deal beſide the cuſhion, if we ſhould aſſure
+<pb n="85" facs="tcp:42877:53"/>
+                  <q>
+                     <p>Gaudium niſi Sapienti non con<g ref="char:EOLhyphen"/>tingere.</p>
+                     <bibl>
+                        <hi>Senec.</hi> Epist. <hi>65.</hi>
+                     </bibl>
+                  </q> or if we ſhould ſay,
+<q>Sapientem illum eſſe qui plenus gaudio, hilaris &amp; placidus inconcuſſus, cum Diis ex pari vivit.</q>
+               </p>
+               <p>And truly if we had found that the <hi>Stoicks</hi> had rightly called Joy an acceſſary, and as it were a dependance upon Vertue,
+<q>
+                     <p>Gaudium &amp; laetitiam eſſe virtu<g ref="char:EOLhyphen"/>tis acceſſionem <gap reason="foreign">
+                           <desc>〈 in non-Latin alphabet 〉</desc>
+                        </gap>.</p>
+                     <bibl>
+                        <hi>Diog. Laert. in Zenone.</hi>
+                     </bibl>
+                  </q> it would then follow, that the moſt eminent and exalted <hi>Ver<g ref="char:EOLhyphen"/>tues,</hi> which are the <hi>Intellectual,</hi>
+                  <pb n="86" facs="tcp:42877:54"/>by reaſon of their <hi>object,</hi> ſhould be ſtill attended with the moſt perfect contentment, in as much as effects do ever reſult from the nature of their cauſes, and are commenſurate thereto; and ſo by conſequence the Contem<g ref="char:EOLhyphen"/>plations of <hi>Philoſophers</hi> would meet with ſatisfactions that are more pure, and pleaſures more exquiſite, than can be thoſe of an <hi>active life:</hi> but would you know what it is that makes you paſs ſuch a prejudicial judge<g ref="char:EOLhyphen"/>ment upon our way of living ſo <hi>ſolitary</hi> and <hi>retired?</hi> it is be<g ref="char:EOLhyphen"/>cauſe you can't tell how to paſs away the time, nor entertain your ſelves without company; and therefore you imagine that you are never in a worſe poſture, nor more deſolate, than when
+<pb n="87" facs="tcp:42877:54"/>it is your evil fortune to be a<g ref="char:EOLhyphen"/>lone. Now (according to the ancient and plain Proverb) you meaſure other peoples Corn by your own buſhel, and think their humours reſemble your own, when (alas!) it is quite contrary with them; for they are never more briſk or jolly, than when they are converſing with themſelves; for they finde that within which is unknown to you, and which gives them the greateſt ſatisfaction and con<g ref="char:EOLhyphen"/>tentment imaginable.</p>
+               <q>
+                  <p>Talis Sapientis est animus, qualis mundi ſtatus ſuper Lunam ſemper illic ſerenum est.</p>
+                  <bibl>
+                     <hi>Senec.</hi> Epist. <hi>60.</hi>
+                  </bibl>
+               </q>
+               <p>This is the great advantage
+<pb n="88" facs="tcp:42877:55"/>which <hi>Philoſophers</hi> have over the reſt of <hi>mankind. Antiſthe<g ref="char:EOLhyphen"/>nes</hi> being demanded wherein principally his <hi>Philoſophy</hi> was ſerviceable to him, gave this anſwer,
+<q>
+                     <p>
+                        <gap reason="foreign">
+                           <desc>〈 in non-Latin alphabet 〉</desc>
+                        </gap>,<hi>Mecum colloqui poſſe.</hi>
+                     </p>
+                     <bibl>Diog. Laert. in Antiſth.</bibl>
+                  </q>
+               </p>
+               <p>It is the <hi>Prerogative</hi> of men of good ſence, who, being alone, know how to enjoy a vertuous and an innocent Complaiſance with themſelves.</p>
+               <q>
+                  <p>Niſi ſapienti ſua non placent: omnis ſtultitia laborat faſtidio ſui.</p>
+                  <bibl>
+                     <hi>Senec.</hi> Epist. <hi>9.</hi>
+                  </bibl>
+               </q>
+               <p>Thoſe elevated Souls that are
+<pb n="89" facs="tcp:42877:55"/>freed from the ſottiſh fancies of the <hi>Populace,</hi> never ſuffer any diſ<g ref="char:EOLhyphen"/>guſts from themſelves; <hi>ſolitude</hi> does not aſtoniſh them; they have not any of that gnawing of a criminal Conſcience; their Genius does not perſecute them: but in a full enjoyment of their Integrity and Innocence, they converſe with Intelligences, contemplate the immenſe great<g ref="char:EOLhyphen"/>neſs and power of Nature; they conſider the cauſes and effects of Heaven and Earth, meditate on the beginnings and ends of all things.</p>
+               <q>Ex ſuperiore loco homines vi<g ref="char:EOLhyphen"/>dent, ex aequo Deos.</q>
+               <p>They do not there languiſh in a diſcontented and froward idle<g ref="char:EOLhyphen"/>neſs;
+<pb n="90" facs="tcp:42877:56"/>ſuch a <hi>ſolitude</hi> is not ca<g ref="char:EOLhyphen"/>pable of ſaddening a ſoul that is <hi>divinely</hi> tranſported: Do not we ſee the <hi>Eagle,</hi> which prefers the <hi>deſerts,</hi> where, from the ſu<g ref="char:EOLhyphen"/>premeſt Region of the Air, it contemplates the <hi>Sun</hi> at the neereſt approach, far before the company of all other <hi>Birds?</hi> Imagine ſo it is with a <hi>Spirit</hi> truly <hi>philoſophical,</hi> which being exerciſed in the Art of <hi>mental</hi> Diſcourſe and <hi>Meditation,</hi> vo<g ref="char:EOLhyphen"/>luntarily ſeparates from the <hi>mul<g ref="char:EOLhyphen"/>titude,</hi> which it leaves beneath it, that it may come neerer to the <hi>Divinity</hi> it contemplates. This was it which made <hi>Ariſtotle</hi> to conclude,<note place="margin">Eth. ad Nic. <hi>l.</hi> ult. <hi>c.</hi> 8.</note> at the end of his <hi>Morals,</hi> that the more a man is <hi>contem<g ref="char:EOLhyphen"/>plative,</hi> the more he is happie,
+<pb n="91" facs="tcp:42877:56"/>and aſſimilated to the <hi>Divine Eſ<g ref="char:EOLhyphen"/>ſences,</hi> which have not received this denomination from <hi>God,</hi>
+                  <note place="margin">Plut. de Plu. ph. l. 1. c. 9.</note> but from the word <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, that is to ſay, to contemplate, be<g ref="char:EOLhyphen"/>cauſe it is their buſineſs, and ordinary exerciſe. And more<g ref="char:EOLhyphen"/>over, becauſe that every thing is naturally carried out to its good, all men have an inclina<g ref="char:EOLhyphen"/>tion and a <hi>Philoſophical</hi> deſire of being learn'd and knowing. Now <hi>Science</hi> is not attained but by <hi>Contemplation.</hi>
+                  <q>
+                     <p>Oportet Intelligentem ſpeculari phantaſmata,</p>
+                     <bibl>
+                        <hi>7</hi> Phy. c. <hi>4.</hi>
+                     </bibl>
+                  </q> and that cannot be poſſeſs'd but in a grand repoſe and tran<g ref="char:EOLhyphen"/>quillity.</p>
+               <pb n="92" facs="tcp:42877:57"/>
+               <p>
+                  <q>Quieviſſe ac ſtetiſſe Dianaeam, id vocamus ſcire ac pruden<g ref="char:EOLhyphen"/>tem eſſe,</q>
+ſays the Maſter of the School. We have all then from Nature a propenſion to reſt and con<g ref="char:EOLhyphen"/>templation, as to our greateſt felicity. And if it be true that all the accompliſhment of the natural deſire is accompanied with real pleaſures, and with <hi>volupty;</hi> The <hi>Philoſopher,</hi> who in the enjoyment of a profound repoſe, contemplates and knows the natural truths, and the eſ<g ref="char:EOLhyphen"/>ſences of all things, as much as they are humanely perceptible, ſhall queſtionleſs receive a moſt accompliſh'd Joy, and a moſt perfect Contentment.</p>
+               <pb n="93" facs="tcp:42877:57"/>
+               <q>
+                  <p>O Meliboee, Deus nobis haec otia fecit!</p>
+                  <bibl>
+                     <hi>Virg.</hi> Eclog. <hi>1.</hi>
+                  </bibl>
+               </q>
+               <p>This, <hi>Philoponus,</hi> this is the cer<g ref="char:EOLhyphen"/>tain eſtate and true condition of him who is without any falſe<g ref="char:EOLhyphen"/>hood, pretence, or diſguiſe <hi>Phi<g ref="char:EOLhyphen"/>loſophical.</hi> And if any, per<g ref="char:EOLhyphen"/>chance, have appear'd to you to be ſuch as you were pleas'd but juſt e'en now to decipher them, pray believe that it was their <hi>beard</hi> and their <hi>chin</hi> have made you take for <hi>Philoſophers</hi> thoſe who onely have a vain <hi>cover</hi> and ſhew of it, and are onely Rams puff'd up, ſuch as thoſe of <hi>Apuleius,</hi> which ſeem'd to you to be real men. We have ſo many wrangling <hi>Pedants,</hi> ſo many contentious
+<pb n="94" facs="tcp:42877:58"/>
+                  <hi>Grammarians,</hi> ſo many flutter<g ref="char:EOLhyphen"/>ing and extravagant <hi>Humaniſts,</hi> all who do make a Profeſſion of courtſhip to <hi>Philoſophy,</hi> and are mightily enamour'd with it, that it is no marvel if many perſons make ſuch diſadvanta<g ref="char:EOLhyphen"/>gious Judgments of it, and ſo much contemn it; though it be a very unjuſt and wicked thing to make that onely reſponſible for the defaults of its Profeſſors. All <hi>Arts</hi> and <hi>Sciences</hi> being herein in a much better condi<g ref="char:EOLhyphen"/>tion than that; for one does not impute to <hi>Architecture,</hi> if any perſon makes an ill uſe of the Rule or the Compaſs; nor to <hi>Muſick,</hi> if he ſtrikes not plea<g ref="char:EOLhyphen"/>ſantly and with a delicate touch the <hi>Lute</hi> or <hi>Harp;</hi> but ſtraight it is concluded that ſuch a one
+<pb n="95" facs="tcp:42877:58"/>is by no means a good <hi>Architect</hi> or <hi>Muſician.</hi>
+                  <note place="margin">Diog. Laert. in Ariſtip.</note> Why therefore do you aſperſe <hi>Philoſophy,</hi> for all the fooleries and impertinences of ſuch <hi>Fol<g ref="char:EOLhyphen"/>lowers,</hi> or rather of ſuch <hi>Im<g ref="char:EOLhyphen"/>poſtors,</hi> like to thoſe heedleſs and inconſiderate lovers of <hi>Pe<g ref="char:EOLhyphen"/>nelope,</hi> who took for her, <hi>Melan<g ref="char:EOLhyphen"/>tha</hi> and <hi>Polidora,</hi> her ſervants? Certainly whoſoever have been capable of knowing it beſt, and of deſerving its <hi>good graces,</hi> they are thoſe who make it leaſt to appear, who have more diſcretion in their happie for<g ref="char:EOLhyphen"/>tune, and who keep its favours the moſt reſerv'd and ſecret.</p>
+               <q>Fugit multitudinem, fugit pau<g ref="char:EOLhyphen"/>citatem, fugit etiam unum.</q>
+               <pb n="96" facs="tcp:42877:59"/>
+               <p>
+                  <hi>Seneca</hi> verily thought that his friend <hi>Lucilius</hi> was become his favourite, when he writ to him.</p>
+               <p>
+                  <hi>Epist.</hi> 11. <hi>&amp;</hi> 32.</p>
+               <q>Quaeris quid me, maximè ex his quae de te audio delectu? quod nihil audio, quod plerique ex his quos interrogo neſciunt, quid agas.</q>
+               <p>Thoſe proud <hi>Sophiſters,</hi> as the learned <hi>Thraſons,</hi> who onely ſwear by the name of that Mi<g ref="char:EOLhyphen"/>ſtriſs, who have onely <hi>Axioms</hi> in their mouths, who onely ſpeak Aſſertions and <hi>Phyſical</hi> Concluſions, are thoſe who leaſt of all know the beauty which they ſo much boaſt of and pretend to ſerve, as alſo they have leaſt ſhare in her affections.
+<pb n="97" facs="tcp:42877:59"/>The true Profeſſors and ſincere Lovers of that fair and <hi>divine Penelope,</hi> are thoſe whom <hi>Ari<g ref="char:EOLhyphen"/>ſtotle</hi> deſcribes to us in the third Treatiſe of his <hi>Politicks,</hi> as being <hi>Intelligences</hi> inveſted with our humane form; or, to ſay better with him, as even <hi>Gods</hi> converſing with Men. And here it is that I would deſire you to obſerve, with how little reaſon you have been deſirous to ſubject them to the ordinary Rules of others lives, and to the common manner of acting with the multitude. Such perſons, ſays he, do not make any part of the <hi>Republick, which is an Aſſembly of thoſe who live in Equality,</hi> becauſe their <hi>Eminence</hi> puts them above their <hi>Peers,</hi> and diſtinguiſhes them too much:
+<pb n="98" facs="tcp:42877:60"/>The <hi>Laws</hi> do not reſpect them, becauſe they are themſelves the <hi>living</hi> and <hi>animated Laws,</hi> which rule and govern all o<g ref="char:EOLhyphen"/>thers; none have any right and power to command them, be<g ref="char:EOLhyphen"/>cauſe they are <hi>Kings</hi> and <hi>perpe<g ref="char:EOLhyphen"/>tual Dictators,</hi> whom Reaſon will have all the world to obey: If then you will be ſo raſh and full of temerity, to preſcribe to them <hi>Statutes</hi> and <hi>Ordinances,</hi> know that you would fain like<g ref="char:EOLhyphen"/>wiſe impoſe them upon <hi>Jupiter</hi> himſelf. I have nothing to do, ſays alſo that great <hi>Epictetus,</hi> with the Laws of <hi>Caſſius,</hi> or of <hi>Maſurius,</hi> ſince I am obedient to thoſe of the Author of Na<g ref="char:EOLhyphen"/>ture; and the <hi>Stoick</hi> of <hi>Cicero,</hi> in the fourth of his <hi>Academical Queſtions,</hi> laughs at the <hi>Laws</hi>
+                  <pb n="99" facs="tcp:42877:60"/>of <hi>Lycurgus,</hi> of <hi>Solon,</hi> and of the <hi>twelve Tables,</hi> proteſting that there are no true and real <hi>Laws,</hi> but thoſe of his <hi>Sage</hi> Maſter. Such was, adds <hi>Ari<g ref="char:EOLhyphen"/>ſtotle, Hercules</hi> among the <hi>Ar<g ref="char:EOLhyphen"/>gonauts,</hi> whom, for that very reaſon, the Ill-ſmelling ſhip <hi>Arga</hi> would not receive among the other perſons, becauſe he ſurpaſſed them all with too much Excellence and Diſparity. If this deſcription ſeemeth ſtrange to you, obſerve, the better to comprehend it, that there are two ſorts of <hi>Repub<g ref="char:EOLhyphen"/>lick,</hi> the ſmall and particular one, and the great one, which is that of the <hi>
+                     <g ref="char:V">Ʋ</g>niverſe.</hi> It is of the firſt that <hi>Apollonius Tyaneon</hi> muſt be underſtood to ſpeak, when he ſaid</p>
+               <pb n="100" facs="tcp:42877:61"/>
+               <q>
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>,</q>
+               <q>Ego quidem de nullâ rep. ſum ſollicitus, vivo enim ſub Diis.</q>
+               <p>And it is in reſpect of the laſt, that the <hi>Philoſophers,</hi> of whom we ſpeak, are call'd <hi>Coſmopolites,</hi> or Citizens of the World. They cannot, becauſe of their diſproportion'd greatneſs, make a part of the bodies of particu<g ref="char:EOLhyphen"/>lar <hi>Eſtates,</hi> as we have juſt now ſaid: but conſidering them in this great City of the <hi>
+                     <g ref="char:V">Ʋ</g>niverſe,</hi>
+                  <q>
+                     <p>Terminos civitatis ſuae in ſolo metientes.</p>
+                     <bibl>
+                        <hi>Sen. de vit. beat.</hi> cap. <hi>31.</hi>
+                     </bibl>
+                  </q> they make of it the moſt beau<g ref="char:EOLhyphen"/>tiful, the moſt important, and
+<pb n="101" facs="tcp:42877:61"/>the moſt conſiderable Members after the <hi>Gods,</hi> if you will comprehend them in it, ſo as <hi>Epictetus</hi> did, and the other <hi>Philoſophers</hi> of his <hi>Sect.</hi>
+               </p>
+               <p>Now if you would further demand of me what is their Employment here, and to what purpoſe they ſerve, I will tell you: They keep us from being ignorant of the marvellous things of the <hi>Almighty,</hi> and of <hi>Nature,</hi> being the witneſſes, interpreters, and admirers of them. <hi>Pythagoras</hi> compares them very gentily to the ſpectators of the <hi>Olympick games,</hi> who lea<g ref="char:EOLhyphen"/>ving to others the Courſes, the Combats, the Bargains, the Sales,<note place="margin">Arrianus, <hi>l.</hi> 2. <hi>c.</hi> 14.</note> and the o<g ref="char:EOLhyphen"/>ther various Occupa<g ref="char:EOLhyphen"/>tions, content themſelves with
+<pb n="102" facs="tcp:42877:62"/>contemplating all theſe things in repoſe, though the <hi>Merchants</hi> make a wry mouth at them, or laugh them to ſcorn. Others likewiſe have very appoſitely conſidered this world as a mag<g ref="char:EOLhyphen"/>nificent <hi>Theatre,</hi> upon which ſo many <hi>kinds</hi> of life, as there are diverſity of <hi>perſonages,</hi> are re<g ref="char:EOLhyphen"/>preſented. The <hi>Philoſophers</hi> are found ſitting, conſidering the <hi>
+                     <g ref="char:V">Ʋ</g>niverſe</hi> with an extream pleaſure, whilſt that <hi>Kings, Princes,</hi> and great <hi>Monarchs</hi> are as ſo many <hi>Actors</hi> of the <hi>Comedy,</hi> who ſeem onely to <hi>play</hi> for the content and ſatisfaction of thoſe worthy <hi>ſpectators. Diogenes</hi> underſtood it ſo perfectly, when he was pleaſant with <hi>Alexander,</hi> and told him in way of raillery and contempt, that he was
+<pb n="103" facs="tcp:42877:62"/>maſter of his diſpoſitions, and he wanted but a very ſmall mat<g ref="char:EOLhyphen"/>ter not to be inferiour to him. And truly, ſince that the <hi>King</hi> was like ſo many other perſons, a ſlave to his paſſions, <hi>Diogenes,</hi> who commanded them, making them to truckle and be ſubject to Reaſon, might very well boaſt of his maſtering the Ma<g ref="char:EOLhyphen"/>ſters of <hi>Alexander;</hi> and what had he in that preheminence, but that which we give to <hi>Philoſophers</hi> above the greateſt <hi>Kings</hi> upon Earth, which are conform'd to the order and diſpoſition of all the <hi>
+                     <g ref="char:V">Ʋ</g>niverſe?</hi> where we believe that the In<g ref="char:EOLhyphen"/>telligences of <hi>Sciences,</hi> and of <hi>Illumination,</hi> are to be preferred and exalted far beyond thoſe of <hi>Powers</hi> and <hi>Dominions.</hi> But
+<pb n="104" facs="tcp:42877:63"/>notwithſtanding I do not doubt but that you will think theſe thoughts to be very ſtrange, as being ſo extreamly different from the ordinary Sentiments, and received Opinions: but you know that there are no <hi>Arts</hi> nor <hi>Profeſſions</hi> without their <hi>Paradoxes;</hi> as when the <hi>Phyſi<g ref="char:EOLhyphen"/>cian</hi> orders the Eye to be cata<g ref="char:EOLhyphen"/>rackt to have its ſight reſtored,<note place="margin">Arrianus, <hi>lib.</hi> 1. <hi>c.</hi> 25.</note> or to break the Leg to make the perſon walk upright: why then ſhould we wonder that <hi>Philoſo<g ref="char:EOLhyphen"/>phy,</hi> the ſoveraign <hi>Phyſician</hi> of our Souls, hath alſo hers, and that it is very neceſſary for her to give us <hi>Paradoxes,</hi> provided that, as <hi>Cleanthes</hi> ſaid, they be not <hi>Paralogues,</hi>
+                  <note place="margin">Arrianus, <hi>lib.</hi> 9 <hi>cap.</hi> 1.</note> or abſurd and unrea<g ref="char:EOLhyphen"/>ſonable.</p>
+               <pb n="105" facs="tcp:42877:63"/>
+               <p>Now that we may rightly know and comprehend them, we ought to be initiated in<g ref="char:EOLhyphen"/>to its <hi>ſacred Myſteries:</hi> That we may appropriate them, and profit by them, we ought to have the Spirit of underſtanding and the <hi>Philoſophical genius.</hi> A weak ſtomach, and which is not accuſtomed to ſuch ſolid viands, will reject them, inſtead of di<g ref="char:EOLhyphen"/>geſting them, and of being nouriſhed by them. We need not therefore wonder if thoſe perſons, who feed upon that Aliment which is ſo different from ours, have alſo the Taſte and the Appetite to be as much diſreſembling.</p>
+               <q>Non idem ſapere poſſunt, qui aquam &amp; vinum bibunt.</q>
+               <pb n="106" facs="tcp:42877:64"/>
+               <p>Do you think, <hi>Philoponus,</hi> in the perpetual agitations of your va<g ref="char:EOLhyphen"/>rious affairs, and in the ſervile diſtractions of your eminent charges, to poſſeſs the ſame <hi>even pulſe</hi> of minde, and to have the ſame cogitations with thoſe who are onely taken up in the <hi>Culture</hi> of <hi>Philoſophy,</hi> are onely exercis'd and buſied in <hi>Contemplation,</hi> have no other greater pleaſure than in this <hi>ſolution</hi> and <hi>ſepara<g ref="char:EOLhyphen"/>tion</hi> of the <hi>ſoul</hi> and <hi>body,</hi> as <hi>Phi<g ref="char:EOLhyphen"/>loſophers</hi> onely? For as <hi>Action</hi> conſiſts in the movement,<note place="margin">Ariſt. 1. de Ani. <hi>cap.</hi> 3.</note> ſo doth <hi>Speculation,</hi> as we have ſet it forth, conſiſt all in repoſe and leiſurely idleneſs,
+<q>Intellectio ſimilis est cuidam quieti &amp; ſtatui.</q>
+                  <pb n="107" facs="tcp:42877:64"/>which are things <hi>diametrically</hi> contrary and oppoſite, and which alſo produce fruits of a very different nature. But ſince I have as yet declined revealing to you the moſt ſecret Articles of the <hi>Philoſophical</hi> Profeſſion, I will not any longer make it a difficulty to truſt to your loyal<g ref="char:EOLhyphen"/>ty and faithfulneſs the moſt in<g ref="char:EOLhyphen"/>ward Reſerve of my Soul, and make you to ſee quite naked, in what terms I ſaw my ſelf formerly, and alſo in what condition and quality of minde I finde my ſelf now at preſent to be. I have been no leſs than you affected with an haughty ambition of appearing in the world; there was nothing I left unattempted to ſatisfie that paſſion; I would have had
+<pb n="108" facs="tcp:42877:65"/>recourſe to <hi>Penny-royal,</hi> and to the other <hi>Herbs,</hi> if I had be<g ref="char:EOLhyphen"/>liev'd, as <hi>Pliny</hi> re<g ref="char:EOLhyphen"/>ports,<note place="margin">
+                     <hi>Lib.</hi> 25. <hi>cap.</hi> 10.</note> that they would any ways have contribu<g ref="char:EOLhyphen"/>ted to my glory and reputation. As for Riches, although that paſſion was never much in me, but in a very weak and lan<g ref="char:EOLhyphen"/>guiſhing degree, if it were that which I accord in with the <hi>Spa<g ref="char:EOLhyphen"/>niard,</hi>
+               </p>
+               <q>El ſennor dinero por un gran Cavallero:</q>
+               <p>Methinks <hi>Heſiod</hi> had very great reaſon, when he ſaid that money was another Soul which made us to live, and ſubſiſt.</p>
+               <q>
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</q>
+               <pb n="109" facs="tcp:42877:65"/>
+               <p>As to thoſe pleaſures which ac<g ref="char:EOLhyphen"/>company Honours and Riches, my complexion did not render me incapable of any of them; and I had natural inclinations as ſtrong and powerful it may be as any other to make me ſeek and court the enjoyment of them; and I was alſo very ex<g ref="char:EOLhyphen"/>treamly ingaged in their purſuit, as you may, if you pleaſe, well remember, if you have ſtill any memory of our firſt acquain<g ref="char:EOLhyphen"/>tance; when that my good Genius carried me to the know<g ref="char:EOLhyphen"/>ledge of ſome perſons of ſound Sence and Judgment, which gave to mine the firſt illumina<g ref="char:EOLhyphen"/>tions, and made me to diſcern the firſt glimmering and beams of true <hi>Philoſophy,</hi> their manner of living being abſolutely different
+<pb n="110" facs="tcp:42877:66"/>from mine, their Ratiocinations and their Sentiments oppoſite to thoſe which I had till that time retained, with what zeal and propenſion I have always perceived in me to the ſtudy and love of the truth in all things, and indeed above all things; and yet notwithſtand<g ref="char:EOLhyphen"/>ing the efforts of firſt intelli<g ref="char:EOLhyphen"/>gences and apprehenſions, the violence of evil habits, the ty<g ref="char:EOLhyphen"/>ranny of cuſtoms, the torrent of the multitude, had eaſily carried me away in my firſt courſe.</p>
+               <q>De me, facilè enim tranſitu ad plures Socrati, Latoni, &amp; Coelio excutere mentem ſuam diſſimilis multitudo optuiſſet.</q>
+               <p>I was then in the greateſt hazard
+<pb n="111" facs="tcp:42877:66"/>imaginable to fall, if that <hi>Socrae<g ref="char:EOLhyphen"/>tical Demon,</hi> which had a care of my conſervation, had not remedied it, ordering me that little Voyage which I made through the principal parts of <hi>Europe,</hi> juſt as good <hi>Phyſicians</hi> do frequently preſcribe the change of Air to thoſe whom they would fain preſerve. And certainly that tranſplantation is no leſs profitable to Men than to Plants, which we ſee do thrive and grow much better by that means.</p>
+               <q>Et jam aquarum ſuavioris ſunt quas errant.</q>
+               <p>And we may obſerve, that in <hi>Heaven</hi> the moving <hi>Planets</hi> are of much greater conſideration
+<pb n="112" facs="tcp:42877:67"/>than thoſe that are fixt, and do not ſtir at all; ſo likewiſe may we take notice how exceedingly thoſe ancient famous men of <hi>Greece</hi> did value Peregrination, ſuch as were the lives of <hi>Thales, Solon, Cleobulus, Pythagoras, Plato, Democritus,</hi> and ſeveral others, who gave ſufficient and aſſured teſtimonies of it: and if you will give me leave, I will tell you upon this ſubject, what I always thought of the long ſleep of <hi>Epimenides</hi> of fifty ſeven years, having left his Fa<g ref="char:EOLhyphen"/>thers Sheep to ſtray whither they would, whilſt he took that profound ſleep. For what can that <hi>Fable</hi> ſignifie, but a long Voyage, during all the time that we do frequently let our domeſtick affairs, as it were,
+<pb n="113" facs="tcp:42877:67"/>ſleep? The Paternal ſheep, that is, the goods which our Parents have left us, then running a great hazard of being loſt and gone: But ſo it was, that after this long night,<note place="margin">D. Laert. in Epimenid.</note> or to ſay better, abſence, he returned moſt il<g ref="char:EOLhyphen"/>luſtriouſly to his own home, and moſt beloved of the <hi>Gods,</hi>
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, which is preferable to all other conſiderations. I will not ſay that my Voyages have been attended with ſo happy a ſucceſs; but I can aſſure you, that this is the time of my life, which in my eſteem I have the beſt employ'd, ſince which I have given my ſelf the liberty to form it, and to regulate the courſe of it, according as Rea<g ref="char:EOLhyphen"/>ſon hath made me ſee it was
+<pb n="114" facs="tcp:42877:68"/>moſt for my intereſt and advan<g ref="char:EOLhyphen"/>tage. The <hi>Gods</hi> had given me the being of it, but it was <hi>Phi<g ref="char:EOLhyphen"/>loſophy</hi> that hath procur'd me its well-being.</p>
+               <q>Deorum munus vivere, Philoſo<g ref="char:EOLhyphen"/>phiae bene vivere.</q>
+               <p>The wiſhes of my Parents had deſtined me to a thouſand Ser<g ref="char:EOLhyphen"/>vitudes, <hi>Philoſophy</hi> hath brought me off from them, and put me in<g ref="char:EOLhyphen"/>to a full and true liberty: The Laws and Cuſtoms ſeem'd to oblige me to actions that are ſhamefully laborious; <hi>Philoſophy</hi> has given me an exemption therefrom, and hath bleſs'd me with a ſweet Repoſe and Feli<g ref="char:EOLhyphen"/>city.</p>
+               <pb n="115" facs="tcp:42877:68"/>
+               <q>Summa beatae vitae ſolido tran<g ref="char:EOLhyphen"/>quillitas, &amp; ejus inconcuſſa, fiducia.</q>
+               <p>And yet you think ſtrangely of my ways of living, you believe my <hi>ſolitude</hi> to be blame-worthy, you fancie my retreat to be ſhameful, my condition poor and beggarly, my tranquillity idle and reproachable, and my pleaſures imaginary even to extravagance. But will you pleaſe to make uſe of a little of your natural Reaſon, and I will deſire no other Judge than your ſelf to determine our difference. Is it not true, (I'll ſubmit to your Conſcience to tell me) that although the <hi>eminent dig<g ref="char:EOLhyphen"/>nitie</hi> of your Office renders you never ſo much reſpected in this
+<pb n="116" facs="tcp:42877:69"/>
+                  <hi>Country,</hi> yet notwithſtanding becauſe there ſtill remains ſome<g ref="char:EOLhyphen"/>thing thing ſuperiour to you, your ambition is not ſatisfied, and your deſires ſet you upon the wrack, as often as you exalt your eyes on high? Is it not true, that although you poſſeſs great Riches and a vaſt Eſtate, yet if there be any thing wanting which yoy eſteem and paſſio<g ref="char:EOLhyphen"/>nately aſpire to, your minde is far more troubled at your miſ<g ref="char:EOLhyphen"/>ſing of them, than the enjoy<g ref="char:EOLhyphen"/>ment of all the other things you have can give you contentment? Is it not true, that although you give up your ſelf to all the pleaſures and indulgences you poſſibly can, you cannot for<g ref="char:EOLhyphen"/>bear deſiring and wiſhing for more, and imagining to your
+<pb n="117" facs="tcp:42877:69"/>ſelf a great many others, whoſe privation moſt extreamly af<g ref="char:EOLhyphen"/>flicts you? Have you ever been ſenſible of any joy which hath not been attended with an af<g ref="char:EOLhyphen"/>fection more powerful and preſ<g ref="char:EOLhyphen"/>ſing, in the midſt, and as it were from the very ſource of your moſt delicious paſtimes and recreations? Hath there not riſen ſome inward diſguſt, and ſome diſagreeable bitterneſs, which hath ſurpaſſed all that hath been moſt ſweet and plea<g ref="char:EOLhyphen"/>ſing to you? But on the con<g ref="char:EOLhyphen"/>trary, if I think and finde my ſelf ſo much advanced above all your Honours and Adora<g ref="char:EOLhyphen"/>tions, as that I can deſpiſe and ſcorn them without doing any violence to my ſelf, and know<g ref="char:EOLhyphen"/>ing the evil conſequence of them,</p>
+               <pb n="118" facs="tcp:42877:70"/>
+               <q>Contentus eo uſque creviſſe, quo manum fortuna non porrigit.</q>
+               <p>If I do not conſider all your Riches and Wealth, but onely as prettie little fooleries, and nuts which <hi>Fortune</hi> throws out to men, juſt as we do to little children, pleaſing my ſelf with taſting now and then one which ſome accident has flung even to me too, according as <hi>Epictetus</hi> permits it,<note place="margin">Arian. <hi>l.</hi> 4. <hi>c.</hi> 7.</note> whilſt that others are ſtruggling and contending who ſhall get the moſt. If I, ac<g ref="char:EOLhyphen"/>knowledging your greateſt plea<g ref="char:EOLhyphen"/>ſures to be but ridiculous and ſimple, aye, and ruinous too, am ſatisfied with my own enjoy<g ref="char:EOLhyphen"/>ments, and know them to be
+<pb n="119" facs="tcp:42877:70"/>pure, ſolid, and true, which all the world is not capable to make them be in the leaſt troubleſome to me, nor can hinder me of; and if they be ſuch as I have made demonſtrable to you in my precedent diſcourſe; if all thoſe things are true, and if this be juſtly the poſture and con<g ref="char:EOLhyphen"/>dition of both; tell me, if there remains yet any ingenuity in you, and tell me candidly, which of the two ſeems to be moſt happy? to which will you ad<g ref="char:EOLhyphen"/>judge the advantage? which is that which you would prefer? O, <hi>Philoponus!</hi> can you be able to heſitate upon this is the pronouncing of your Judge<g ref="char:EOLhyphen"/>ment? And if, as I could eaſily have done it, I had made you ſee more nakedly and plainly
+<pb n="120" facs="tcp:42877:71"/>the raviſhing Beauties of our <hi>Divine Philo<g ref="char:EOLhyphen"/>ſophy,</hi>
+                  <note place="margin">Ennapius in Maxio.</note> ha! what extream paſ<g ref="char:EOLhyphen"/>ſions, and what admirable tranſ<g ref="char:EOLhyphen"/>ports of love would you have for her! If this <hi>Caeleſtial Deity</hi> had but once touch'd you to the quick, what an unquench<g ref="char:EOLhyphen"/>able thirſt of Diſcipline and Learning would have ever been upon you for the future, and make you ſpend the reſt of your life in another gueſs manner than hitherto you have done! If you had but ever ſo little taſted the ſweetneſs and plea<g ref="char:EOLhyphen"/>ſurableneſs of a <hi>ſolitary</hi> Con<g ref="char:EOLhyphen"/>verſation, and your minde had taken any <hi>repaſt</hi> of the <hi>Nectar</hi> and <hi>Ambroſia<g ref="char:punc">▪</g>
+                  </hi> of its charming <hi>Contemplations,</hi> how would you preſently have quitted all man<g ref="char:EOLhyphen"/>ner
+<pb n="121" facs="tcp:42877:71"/>of other <hi>food</hi> than that, with the greateſt contempt in the world! and how would you che<g ref="char:EOLhyphen"/>riſh the <hi>repaſt</hi> of a <hi>private</hi> and <hi>particular life,</hi> to enjoy its enter<g ref="char:EOLhyphen"/>tainment without any trouble, and how would you prefer our <hi>deſarts</hi> and <hi>ſolitudes</hi> to the moſt eminent and indearing <hi>compa<g ref="char:EOLhyphen"/>nies,</hi> and to the moſt important actions of your <hi>politick life!</hi> It is not for that, that we leave the <hi>Towns,</hi> to dwell in <hi>Woods</hi> and ſavage <hi>Mountains;</hi> our minde findes its <hi>Hermitage</hi> every where; and in the moſt numerous <hi>Aſſemblies</hi> of men in the greateſt Towns and Cities in the world, I very frequently finde my ſelf in a <hi>Deſart.</hi>
+               </p>
+               <pb n="122" facs="tcp:42877:72"/>
+               <q>Magna Civitas magna mihi ſo<g ref="char:EOLhyphen"/>litudo.</q>
+               <p>And I am commonly as much alone as could be
+<q>Orpheus in Sylvis, inter Del<g ref="char:EOLhyphen"/>phinas Arion.</q> provided that my Soul may conſerve its liberty, and that its functions are not oppreſſed un<g ref="char:EOLhyphen"/>der the weight and burden of your importune and trouble<g ref="char:EOLhyphen"/>ſome affairs, exempt from paſſion and trouble, it will finde every where <hi>Gods</hi> with whom to con<g ref="char:EOLhyphen"/>verſe, it will go out through all the extent of Nature, and by the means of a ſtrong and a vi<g ref="char:EOLhyphen"/>gorous <hi>Contemplation,</hi> will make
+<pb n="123" facs="tcp:42877:72"/>Voyages to the furtheſt parts of the <hi>World;</hi> and <hi>ſpiritual</hi> Navi<g ref="char:EOLhyphen"/>gations, where it will diſcover the <hi>Americans,</hi> and the new <hi>Worlds,</hi> full of Riches and Ra<g ref="char:EOLhyphen"/>rities until now unknown.</p>
+               <q>
+                  <l>Diffugiunt Animi terrores, moe<g ref="char:EOLhyphen"/>nia mundi</l>
+                  <l>Diſcedunt, totum video per inane geri res,</l>
+                  <l>Apparet Divûm numen, ſedeſ<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> quietas.</l>
+               </q>
+               <p>And do you think that there are not every day found out in the <hi>Intellectual Globe,</hi> places which are not yet broke up nor cultivated (as we ſee every year almoſt are diſcovered by ſome or other) which have not belong'd to you, nor been
+<pb n="124" facs="tcp:42877:73"/>inhabited as yet by any, as ever it can be known? Now this is one of the Correſpondences, and one of the Reports which is moſt truly made from the great to the little World. Now if the diſcovery be not made by one as well as by another, it is onely the defect of Courage or Addreſs; the Art of <hi>Speculation</hi> and <hi>Meditation,</hi> which is the certain <hi>ſpiritual</hi> Navigation, being either deſpiſed, or elſe ab<g ref="char:EOLhyphen"/>ſolutely left off; and every one contenting himſelf with the knowledge and ſcience of their Fathers, as we do of the <hi>Lands</hi> of this <hi>Country,</hi> without trou<g ref="char:EOLhyphen"/>bling our ſelves about thoſe of <hi>Canada.</hi> But when there are any Heroick Souls, as the <hi>Tiphi</hi> or <hi>Coulombes</hi> in this <hi>ſpiritual</hi>
+                  <pb n="125" facs="tcp:42877:73"/>Ocean, they finde out ways that are wholly <hi>novel,</hi> and make a deſcent into deeps unknown, full of rarity and admiration. But I fancie you do not much care what is done or paſſes in other <hi>Hemiſpheres:</hi> nor would I have made ſo long an <hi>Ha<g ref="char:EOLhyphen"/>rangue,</hi> but for my <hi>juſtification,</hi> and in ſome manner to ſatisfie the good will and affection you have always teſtified to me.</p>
+            </sp>
+            <sp>
+               <speaker>Philop.</speaker>
+               <p>It is not without good reaſon that your <hi>Ariſtotle</hi> hath ſaid, that by <hi>ſolitude</hi> men became</p>
+               <q>
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, aut Fera, aut Deus:</q>
+               <pb n="126" facs="tcp:42877:74"/>
+               <p>For I muſt confeſs ſincerely to you, that if you are not ſome<g ref="char:EOLhyphen"/>thing more than <hi>ordinary</hi> and <hi>humane,</hi> you have ſuch <hi>ſallies</hi> of minde, and <hi>extravagances</hi> ſo <hi>bizarre</hi> and particular, as cannot be lodg'd under any <hi>reaſonable</hi> Figure, without ma<g ref="char:EOLhyphen"/>king it to run up and down the ſtreets like a <hi>Bedlam.</hi>
+               </p>
+            </sp>
+            <closer>
+               <salute>Adieu.</salute>
+            </closer>
+            <epigraph>
+               <q>
+                  <l>Illi Mors gravis incubat</l>
+                  <l>Qui nimis nonus omnibus:</l>
+                  <l>Ignotus moritur ſibi.</l>
+                  <bibl>
+                     <hi>Sen. ex Thyeſte.</hi>
+                  </bibl>
+               </q>
+            </epigraph>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:42877:74"/>
+         </div>
+      </body>
+   </text>
+</TEI>
